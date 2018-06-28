@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/french_community_of_belgium_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Thu, 28 Jun 2018 22:42:20 +0200</pubDate>
+    <pubDate>Thu, 28 Jun 2018 22:49:35 +0200</pubDate>
     <item>
       <title>Opinion Poll by Ipsos for Het Laatste Nieuws, Le Soir, RTL TVi and VTM, 29 May–6 June 2018 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/french_community_of_belgium_ep_polls/2018-06-06-Ipsos.html</link>
@@ -19,6 +19,16 @@
       <pubDate>Thu, 28 Jun 2018 22:42:20 +0200</pubDate>
       <dc:date>2018-06-28T22:42:20.902494+02:00</dc:date>
     </item>
-    <dc:date>2018-06-28T22:42:20.902494+02:00</dc:date>
+    <item>
+      <title>Opinion Poll by TNS for De Standaard–VRT–RTBf–La Libre Belgique, 26 February–17 March 2018 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/french_community_of_belgium_ep_polls/2018-03-17-TNS.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;PS (S&amp;amp;D): 21.1–25.8%&lt;/li&gt;&lt;li&gt;MR (ALDE): 21.5–26.3%&lt;/li&gt;&lt;li&gt;cdH (EPP): 9.3–12.8%&lt;/li&gt;&lt;li&gt;Ecolo (Greens/EFA): 15.9–20.2%&lt;/li&gt;&lt;li&gt;PTB (GUE/NGL): 8.3–11.7%&lt;/li&gt;&lt;li&gt;Parti Populaire (EFDD): 2.3–4.3%&lt;/li&gt;&lt;li&gt;DéFI (ALDE): 5.9–8.8%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/french_community_of_belgium_ep_polls/2018-03-17-TNS.png"
+        length="217538"
+        type="image/png"/>
+      <pubDate>Thu, 28 Jun 2018 22:49:35 +0200</pubDate>
+      <dc:date>2018-06-28T22:49:35.457855+02:00</dc:date>
+    </item>
+    <dc:date>2018-06-28T22:49:35.457855+02:00</dc:date>
   </channel>
 </rss>
