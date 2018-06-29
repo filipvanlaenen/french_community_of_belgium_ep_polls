@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/french_community_of_belgium_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Thu, 28 Jun 2018 22:49:35 +0200</pubDate>
+    <pubDate>Fri, 29 Jun 2018 20:15:57 +0200</pubDate>
     <item>
       <title>Opinion Poll by Ipsos for Het Laatste Nieuws, Le Soir, RTL TVi and VTM, 29 May–6 June 2018 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/french_community_of_belgium_ep_polls/2018-06-06-Ipsos.html</link>
@@ -16,8 +16,28 @@
       <enclosure url="https://filipvanlaenen.github.io/french_community_of_belgium_ep_polls/2018-06-06-Ipsos.png"
         length="231940"
         type="image/png"/>
-      <pubDate>Thu, 28 Jun 2018 22:42:20 +0200</pubDate>
-      <dc:date>2018-06-28T22:42:20.902494+02:00</dc:date>
+      <pubDate>Fri, 29 Jun 2018 07:03:11 +0200</pubDate>
+      <dc:date>2018-06-29T07:03:11.763327+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by TNS for De Standaard–VRT–RTBf–La Libre Belgique, 26 February–17 March 2018 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/french_community_of_belgium_ep_polls/2018-03-17-TNS.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;PS (S&amp;amp;D): 2–3 seats&lt;/li&gt;&lt;li&gt;MR (ALDE): 2–3 seats&lt;/li&gt;&lt;li&gt;cdH (EPP): 1 seats&lt;/li&gt;&lt;li&gt;Ecolo (Greens/EFA): 1–2 seats&lt;/li&gt;&lt;li&gt;PTB (GUE/NGL): 0–1 seats&lt;/li&gt;&lt;li&gt;Parti Populaire (EFDD): 0 seats&lt;/li&gt;&lt;li&gt;DéFI (ALDE): 0–1 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/french_community_of_belgium_ep_polls/2018-03-17-TNS-seats.png"
+        length="198439"
+        type="image/png"/>
+      <pubDate>Fri, 29 Jun 2018 20:15:57 +0200</pubDate>
+      <dc:date>2018-06-29T20:15:57.443729+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by TNS for De Standaard–VRT–RTBf–La Libre Belgique, 26 February–17 March 2018 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/french_community_of_belgium_ep_polls/2018-03-17-TNS.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/french_community_of_belgium_ep_polls/2018-03-17-TNS-coalitions-seats.png"
+        length="189072"
+        type="image/png"/>
+      <pubDate>Fri, 29 Jun 2018 20:15:57 +0200</pubDate>
+      <dc:date>2018-06-29T20:15:57.443729+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by TNS for De Standaard–VRT–RTBf–La Libre Belgique, 26 February–17 March 2018 – Voting Intentions</title>
@@ -26,9 +46,39 @@
       <enclosure url="https://filipvanlaenen.github.io/french_community_of_belgium_ep_polls/2018-03-17-TNS.png"
         length="217538"
         type="image/png"/>
-      <pubDate>Thu, 28 Jun 2018 22:49:35 +0200</pubDate>
-      <dc:date>2018-06-28T22:49:35.457855+02:00</dc:date>
+      <pubDate>Fri, 29 Jun 2018 20:15:57 +0200</pubDate>
+      <dc:date>2018-06-29T20:15:57.443729+02:00</dc:date>
     </item>
-    <dc:date>2018-06-28T22:49:35.457855+02:00</dc:date>
+    <item>
+      <title>Opinion Poll by Ipsos for Het Laatste Nieuws–Le Soir–RTL Tvi–VTM, 27 February–6 March 2018 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/french_community_of_belgium_ep_polls/2018-03-06-Ipsos.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;PS (S&amp;amp;D): 2–3 seats&lt;/li&gt;&lt;li&gt;MR (ALDE): 2–3 seats&lt;/li&gt;&lt;li&gt;cdH (EPP): 0–1 seats&lt;/li&gt;&lt;li&gt;Ecolo (Greens/EFA): 1–2 seats&lt;/li&gt;&lt;li&gt;PTB (GUE/NGL): 1–2 seats&lt;/li&gt;&lt;li&gt;Parti Populaire (EFDD): 0 seats&lt;/li&gt;&lt;li&gt;DéFI (ALDE): 0–1 seats&lt;/li&gt;&lt;li&gt;La Droite (*): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/french_community_of_belgium_ep_polls/2018-03-06-Ipsos-seats.png"
+        length="208680"
+        type="image/png"/>
+      <pubDate>Fri, 29 Jun 2018 15:59:10 +0200</pubDate>
+      <dc:date>2018-06-29T15:59:10.4959+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Ipsos for Het Laatste Nieuws–Le Soir–RTL Tvi–VTM, 27 February–6 March 2018 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/french_community_of_belgium_ep_polls/2018-03-06-Ipsos.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/french_community_of_belgium_ep_polls/2018-03-06-Ipsos-coalitions-seats.png"
+        length="209667"
+        type="image/png"/>
+      <pubDate>Fri, 29 Jun 2018 15:59:10 +0200</pubDate>
+      <dc:date>2018-06-29T15:59:10.4959+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Ipsos for Het Laatste Nieuws–Le Soir–RTL Tvi–VTM, 27 February–6 March 2018 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/french_community_of_belgium_ep_polls/2018-03-06-Ipsos.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;PS (S&amp;amp;D): 20.7–25.4%&lt;/li&gt;&lt;li&gt;MR (ALDE): 18.7–23.4%&lt;/li&gt;&lt;li&gt;cdH (EPP): 5.8–8.7%&lt;/li&gt;&lt;li&gt;Ecolo (Greens/EFA): 12.7–16.7%&lt;/li&gt;&lt;li&gt;PTB (GUE/NGL): 13.8–17.9%&lt;/li&gt;&lt;li&gt;Parti Populaire (EFDD): 2.9–5.1%&lt;/li&gt;&lt;li&gt;DéFI (ALDE): 6.6–9.7%&lt;/li&gt;&lt;li&gt;La Droite (*): 0.5–1.6%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/french_community_of_belgium_ep_polls/2018-03-06-Ipsos.png"
+        length="233239"
+        type="image/png"/>
+      <pubDate>Fri, 29 Jun 2018 15:59:10 +0200</pubDate>
+      <dc:date>2018-06-29T15:59:10.4959+02:00</dc:date>
+    </item>
+    <dc:date>2018-06-29T20:15:57.443729+02:00</dc:date>
   </channel>
 </rss>
