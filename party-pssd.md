@@ -13,7 +13,7 @@ Last result: **29.3%** (General Election of 25 May 2014)
 | N/A | [Poll Average](average.html) | 22.8% | 21.1–24.5% | 20.6–25.0% | 20.2–25.4% | 19.5–26.3% |
 | [29 May–6 June 2018](2018-06-06-Ipsos.html) | Ipsos <br> Het Laatste Nieuws, Le Soir, RTL TVi and VTM | 22.1% | 20.7–23.7% | 20.3–24.2% | 19.9–24.6% | 19.2–25.4% |
 | [26 February–17 March 2018](2018-03-17-TNS.html) | TNS <br> De Standaard–VRT–RTBf–La Libre Belgique | 23.3% | 21.8–24.9% | 21.4–25.4% | 21.1–25.8% | 20.4–26.6% |
-| [27 February–6 March 2018](2018-03-06-Ipsos.html) | Ipsos <br> Het Laatste Nieuws–Le Soir–RTL Tvi–VTM | 22.9% | 21.4–24.6% | 21.0–25.1% | 20.6–25.4% | 19.9–26.2% |
+| [27 February–6 March 2018](2018-03-06-Ipsos.html) | Ipsos <br> Het Laatste Nieuws–Le Soir–RTL Tvi–VTM | 22.9% | 21.4–24.6% | 21.0–25.0% | 20.7–25.4% | 19.9–26.2% |
 
 ### Probability Mass Function
 
@@ -44,9 +44,9 @@ Last result: **3** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
-| [29 May–6 June 2018](2018-06-06-Ipsos.html) | Ipsos <br> Het Laatste Nieuws, Le Soir, RTL TVi and VTM | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
-| [26 February–17 March 2018](2018-03-17-TNS.html) | TNS <br> De Standaard–VRT–RTBf–La Libre Belgique | 2 | 2 | 2 | 2 | 2 |
-| [27 February–6 March 2018](2018-03-06-Ipsos.html) | Ipsos <br> Het Laatste Nieuws–Le Soir–RTL Tvi–VTM |  |  |  |  |  |
+| [29 May–6 June 2018](2018-06-06-Ipsos.html) | Ipsos <br> Het Laatste Nieuws, Le Soir, RTL TVi and VTM | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
+| [26 February–17 March 2018](2018-03-17-TNS.html) | TNS <br> De Standaard–VRT–RTBf–La Libre Belgique | 2 | 2 | 2 | 2–3 | 2–3 |
+| [27 February–6 March 2018](2018-03-06-Ipsos.html) | Ipsos <br> Het Laatste Nieuws–Le Soir–RTL Tvi–VTM | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 
 ### Probability Mass Function
 
@@ -56,8 +56,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 2 | 69% | 100% | Median |
-| 3 | 31% | 31% | Last Result |
+| 2 | 90% | 100% | Median |
+| 3 | 10% | 10% | Last Result |
 | 4 | 0% | 0% |  |
 
 
