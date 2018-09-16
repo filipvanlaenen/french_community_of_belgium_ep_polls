@@ -341,6 +341,8 @@ Only polls for which at least the sample size has been published are included in
 
 ### MR (ALDE) – DéFI (ALDE)
 
+![Graph with seats probability mass function not yet produced](average-coalitions-seats-pmf-mr–défi.png "Seats Probability Mass Function")
+
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 2 | 60% | 100% | Median |
@@ -350,6 +352,8 @@ Only polls for which at least the sample size has been published are included in
 
 ### PS (S&D)
 
+![Graph with seats probability mass function not yet produced](average-coalitions-seats-pmf-ps.png "Seats Probability Mass Function")
+
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 2 | 89% | 100% | Median |
@@ -358,6 +362,8 @@ Only polls for which at least the sample size has been published are included in
 
 ### Ecolo (Greens/EFA) – PIRATE (Greens/EFA)
 
+![Graph with seats probability mass function not yet produced](average-coalitions-seats-pmf-ecolo–pirate.png "Seats Probability Mass Function")
+
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 1 | 55% | 100% | Last Result, Median |
@@ -365,6 +371,8 @@ Only polls for which at least the sample size has been published are included in
 | 3 | 0% | 0% |  |
 
 ### PTB (GUE/NGL)
+
+![Graph with seats probability mass function not yet produced](average-coalitions-seats-pmf-ptb.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -375,6 +383,8 @@ Only polls for which at least the sample size has been published are included in
 
 ### Parti Populaire (EFDD)
 
+![Graph with seats probability mass function not yet produced](average-coalitions-seats-pmf-pp.png "Seats Probability Mass Function")
+
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 97% | 100% | Last Result, Median |
@@ -382,6 +392,8 @@ Only polls for which at least the sample size has been published are included in
 | 2 | 0% | 0% |  |
 
 ### cdH (EPP)
+
+![Graph with seats probability mass function not yet produced](average-coalitions-seats-pmf-cdh.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -391,6 +403,8 @@ Only polls for which at least the sample size has been published are included in
 
 ### Debout les Belges (*) – La Droite (*) – FW (*) – ISLAM (*) – R.W.F. (*) – Wallonie d’Abord (*)
 
+![Graph with seats probability mass function not yet produced](average-coalitions-seats-pmf-dlb–droite–fw–islam–rwf–wda.png "Seats Probability Mass Function")
+
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 100% | 100% | Last Result, Median |
@@ -398,3 +412,7 @@ Only polls for which at least the sample size has been published are included in
 
 ## Technical Information
 
++ **Number of polls included in this average:** 2
++ **Lowest number of simulations done in a poll included in this average:** 1,048,576
++ **Total number of simulations done in the polls included in this average:** 2,097,152
++ **Error estimate:** 1.86%
