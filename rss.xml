@@ -8,7 +8,27 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/french_community_of_belgium_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sat, 08 Dec 2018 11:46:45 +0100</pubDate>
+    <pubDate>Sat, 08 Dec 2018 17:53:21 +0100</pubDate>
+    <item>
+      <title>Opinion Poll by Ipsos for Het Laatste Nieuws, Le Soir, RTL TVi and VTM, 27 November–3 December 2018 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/french_community_of_belgium_ep_polls/2018-12-03-Ipsos.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;PS (S&amp;amp;D): 2–3 seats&lt;/li&gt;&lt;li&gt;MR (ALDE): 2 seats&lt;/li&gt;&lt;li&gt;cdH (EPP): 1 seats&lt;/li&gt;&lt;li&gt;Ecolo (Greens/EFA): 1–2 seats&lt;/li&gt;&lt;li&gt;PTB (GUE/NGL): 1 seats&lt;/li&gt;&lt;li&gt;Parti Populaire (EFDD): 0 seats&lt;/li&gt;&lt;li&gt;DéFI (ALDE): 0 seats&lt;/li&gt;&lt;li&gt;La Droite (*): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/french_community_of_belgium_ep_polls/2018-12-03-Ipsos-seats.png"
+        length="142585"
+        type="image/png"/>
+      <pubDate>Sat, 08 Dec 2018 17:53:21 +0100</pubDate>
+      <dc:date>2018-12-08T17:53:21.990261+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Ipsos for Het Laatste Nieuws, Le Soir, RTL TVi and VTM, 27 November–3 December 2018 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/french_community_of_belgium_ep_polls/2018-12-03-Ipsos.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/french_community_of_belgium_ep_polls/2018-12-03-Ipsos-coalitions-seats.png"
+        length="160494"
+        type="image/png"/>
+      <pubDate>Sat, 08 Dec 2018 17:53:21 +0100</pubDate>
+      <dc:date>2018-12-08T17:53:21.990261+01:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Ipsos for Het Laatste Nieuws, Le Soir, RTL TVi and VTM, 27 November–3 December 2018 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/french_community_of_belgium_ep_polls/2018-12-03-Ipsos.html</link>
@@ -16,8 +36,8 @@
       <enclosure url="https://filipvanlaenen.github.io/french_community_of_belgium_ep_polls/2018-12-03-Ipsos.png"
         length="233558"
         type="image/png"/>
-      <pubDate>Sat, 08 Dec 2018 11:46:45 +0100</pubDate>
-      <dc:date>2018-12-08T11:46:45.173119+01:00</dc:date>
+      <pubDate>Sat, 08 Dec 2018 17:53:21 +0100</pubDate>
+      <dc:date>2018-12-08T17:53:21.990261+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Ipsos for Het Laatste Nieuws, Le Soir, RTL TVi and VTM, 20–27 September 2018 – Seat Projections for the Parties</title>
@@ -139,6 +159,6 @@
       <pubDate>Fri, 29 Jun 2018 15:59:10 +0200</pubDate>
       <dc:date>2018-06-29T15:59:10.4959+02:00</dc:date>
     </item>
-    <dc:date>2018-12-08T11:46:45.173119+01:00</dc:date>
+    <dc:date>2018-12-08T17:53:21.990261+01:00</dc:date>
   </channel>
 </rss>
