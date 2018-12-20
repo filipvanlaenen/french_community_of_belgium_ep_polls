@@ -10,7 +10,7 @@ Last result: **27.1%** (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 20.8% | 19.3–22.3% | 18.9–22.8% | 18.6–23.1% | 17.9–23.9% |
+| N/A | [Poll Average](average.html) | 20.3% | 18.8–21.9% | 18.4–22.3% | 18.0–22.7% | 17.3–23.5% |
 | [19 November–8 December 2018](2018-12-08-TNS.html) | TNS <br> De Standaard, La Libre Belgique, RTBf and VRT | 19.9% | 18.5–21.4% | 18.1–21.8% | 17.7–22.2% | 17.1–23.0% |
 | [27 November–3 December 2018](2018-12-03-Ipsos.html) | Ipsos <br> Het Laatste Nieuws, Le Soir, RTL TVi and VTM | 20.6% | 19.2–22.2% | 18.8–22.6% | 18.5–23.0% | 17.8–23.8% |
 | [20–27 September 2018](2018-09-27-Ipsos.html) | Ipsos <br> Het Laatste Nieuws, Le Soir, RTL TVi and VTM | 20.8% | 19.3–22.3% | 18.9–22.8% | 18.6–23.2% | 17.9–23.9% |
@@ -24,16 +24,16 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 15.5–16.5% | 0% | 100% |  |
-| 16.5–17.5% | 0.2% | 100% |  |
-| 17.5–18.5% | 2% | 99.8% |  |
-| 18.5–19.5% | 11% | 98% |  |
-| 19.5–20.5% | 27% | 86% |  |
-| 20.5–21.5% | 33% | 59% | Median |
-| 21.5–22.5% | 19% | 26% |  |
-| 22.5–23.5% | 6% | 7% |  |
-| 23.5–24.5% | 1.0% | 1.1% |  |
-| 24.5–25.5% | 0.1% | 0.1% |  |
+| 15.5–16.5% | 0.1% | 100% |  |
+| 16.5–17.5% | 0.9% | 99.9% |  |
+| 17.5–18.5% | 6% | 99.1% |  |
+| 18.5–19.5% | 20% | 93% |  |
+| 19.5–20.5% | 31% | 73% | Median |
+| 20.5–21.5% | 26% | 42% |  |
+| 21.5–22.5% | 12% | 15% |  |
+| 22.5–23.5% | 3% | 3% |  |
+| 23.5–24.5% | 0.4% | 0.5% |  |
+| 24.5–25.5% | 0% | 0% |  |
 | 25.5–26.5% | 0% | 0% |  |
 | 26.5–27.5% | 0% | 0% | Last Result |
 
@@ -62,8 +62,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 2 | 98.5% | 100% | Median |
-| 3 | 1.5% | 1.5% | Last Result |
+| 1 | 0.1% | 100% |  |
+| 2 | 98.7% | 99.9% | Median |
+| 3 | 1.2% | 1.2% | Last Result |
 | 4 | 0% | 0% |  |
 
 
