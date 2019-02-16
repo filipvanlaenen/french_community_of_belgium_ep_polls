@@ -8,7 +8,17 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/french_community_of_belgium_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Tue, 18 Dec 2018 16:07:15 +0100</pubDate>
+    <pubDate>Sat, 16 Feb 2019 12:39:36 +0100</pubDate>
+    <item>
+      <title>Opinion Poll by Ipsos for Het Laatste Nieuws, Le Soir, RTL TVi and VTM, 5–11 February 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/french_community_of_belgium_ep_polls/2019-02-11-Ipsos.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;PS (S&amp;amp;D): 21.0–25.8%&lt;/li&gt;&lt;li&gt;MR (ALDE): 17.0–21.5%&lt;/li&gt;&lt;li&gt;cdH (EPP): 8.2–11.6%&lt;/li&gt;&lt;li&gt;Ecolo (Greens/EFA): 16.3–20.7%&lt;/li&gt;&lt;li&gt;PTB (GUE/NGL): 8.7–12.2%&lt;/li&gt;&lt;li&gt;Parti Populaire (EFDD): 3.8–6.3%&lt;/li&gt;&lt;li&gt;DéFI (ALDE): 4.8–7.6%&lt;/li&gt;&lt;li&gt;La Droite (*): 0.8–2.2%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/french_community_of_belgium_ep_polls/2019-02-11-Ipsos.png"
+        length="231984"
+        type="image/png"/>
+      <pubDate>Sat, 16 Feb 2019 12:39:36 +0100</pubDate>
+      <dc:date>2019-02-16T12:39:36.732828+01:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by TNS for De Standaard, La Libre Belgique, RTBf and VRT, 19 November–8 December 2018 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/french_community_of_belgium_ep_polls/2018-12-08-TNS.html#seats</link>
@@ -189,6 +199,6 @@
       <pubDate>Fri, 29 Jun 2018 15:59:10 +0200</pubDate>
       <dc:date>2018-06-29T15:59:10.4959+02:00</dc:date>
     </item>
-    <dc:date>2018-12-18T16:07:15.078447+01:00</dc:date>
+    <dc:date>2019-02-16T12:39:36.732828+01:00</dc:date>
   </channel>
 </rss>
