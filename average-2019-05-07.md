@@ -211,7 +211,7 @@ Only polls for which at least the sample size has been published are included in
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| <a href="#ps-(s&d)">PS (S&D)</a> | 3 | 2 | 2 |2–3 | 2–3 | 2–3 |
+| <a href="#ps-(s&d)">PS (S&D)</a> | 3 | 2 | 2–3 |2–3 | 2–3 | 2–3 |
 | <a href="#mr-(alde)">MR (ALDE)</a> | 3 | 2 | 2 |2 | 1–2 | 1–2 |
 | <a href="#ecolo-(greens/efa)">Ecolo (Greens/EFA)</a> | 1 | 2 | 2 |2 | 2–3 | 1–3 |
 | <a href="#cdh-(epp)">cdH (EPP)</a> | 1 | 1 | 1 |0–1 | 0–1 | 0–1 |
@@ -259,7 +259,7 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 1 | 2% | 100% | Last Result |
-| 2 | 95% | 98% | Median |
+| 2 | 96% | 98% | Median |
 | 3 | 3% | 3% |  |
 | 4 | 0% | 0% |  |
 
@@ -330,7 +330,7 @@ Only polls for which at least the sample size has been published are included in
 | Coalition | Last Result | Median | Majority? | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:---------:|:-----------:|:------:|:---------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | Ecolo (Greens/EFA) – PIRATE (Greens/EFA) | 1 | 2 | 0% | 2 | 2 | 2–3 | 1–3 |
-| PS (S&D) | 3 | 2 | 0% | 2 | 2–3 | 2–3 | 2–3 |
+| PS (S&D) | 3 | 2 | 0% | 2–3 | 2–3 | 2–3 | 2–3 |
 | MR (ALDE) – DéFI (ALDE) | 3 | 2 | 0% | 2 | 2 | 1–2 | 1–2 |
 | PTB (GUE/NGL) | 0 | 1 | 0% | 1 | 1 | 1 | 1–2 |
 | cdH (EPP) | 1 | 1 | 0% | 1 | 0–1 | 0–1 | 0–1 |
@@ -344,7 +344,7 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 1 | 2% | 100% | Last Result |
-| 2 | 95% | 98% | Median |
+| 2 | 96% | 98% | Median |
 | 3 | 3% | 3% |  |
 | 4 | 0% | 0% |  |
 
@@ -409,6 +409,6 @@ Only polls for which at least the sample size has been published are included in
 ## Technical Information
 
 + **Number of polls included in this average:** 2
-+ **Lowest number of simulations done in a poll included in this average:** 524,288
-+ **Total number of simulations done in the polls included in this average:** 1,572,864
++ **Lowest number of simulations done in a poll included in this average:** 1,048,576
++ **Total number of simulations done in the polls included in this average:** 2,097,152
 + **Error estimate:** 2.03%
