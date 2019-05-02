@@ -8,7 +8,27 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/french_community_of_belgium_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sun, 28 Apr 2019 19:00:30 +0200</pubDate>
+    <pubDate>Wed, 01 May 2019 20:33:44 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by TNS for De Standaard, La Libre Belgique, RTBf and VRT, 25 March–14 April 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/french_community_of_belgium_ep_polls/2019-04-14-TNS.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;PS (S&amp;amp;D): 2–3 seats&lt;/li&gt;&lt;li&gt;MR (ALDE): 1–2 seats&lt;/li&gt;&lt;li&gt;cdH (EPP): 0–1 seats&lt;/li&gt;&lt;li&gt;Ecolo (Greens/EFA): 2–3 seats&lt;/li&gt;&lt;li&gt;PTB (GUE/NGL): 1–2 seats&lt;/li&gt;&lt;li&gt;Parti Populaire (EFDD): 0 seats&lt;/li&gt;&lt;li&gt;DéFI (ALDE): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/french_community_of_belgium_ep_polls/2019-04-14-TNS-seats.png"
+        length="189907"
+        type="image/png"/>
+      <pubDate>Wed, 01 May 2019 20:33:44 +0200</pubDate>
+      <dc:date>2019-05-01T20:33:44.132193+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by TNS for De Standaard, La Libre Belgique, RTBf and VRT, 25 March–14 April 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/french_community_of_belgium_ep_polls/2019-04-14-TNS.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/french_community_of_belgium_ep_polls/2019-04-14-TNS-coalitions-seats.png"
+        length="204825"
+        type="image/png"/>
+      <pubDate>Wed, 01 May 2019 20:33:44 +0200</pubDate>
+      <dc:date>2019-05-01T20:33:44.132193+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by TNS for De Standaard, La Libre Belgique, RTBf and VRT, 25 March–14 April 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/french_community_of_belgium_ep_polls/2019-04-14-TNS.html</link>
@@ -16,8 +36,8 @@
       <enclosure url="https://filipvanlaenen.github.io/french_community_of_belgium_ep_polls/2019-04-14-TNS.png"
         length="216266"
         type="image/png"/>
-      <pubDate>Sun, 28 Apr 2019 19:00:30 +0200</pubDate>
-      <dc:date>2019-04-28T19:00:30.242721+02:00</dc:date>
+      <pubDate>Wed, 01 May 2019 20:33:44 +0200</pubDate>
+      <dc:date>2019-05-01T20:33:44.132193+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Ipsos for Het Laatste Nieuws, Le Soir, RTL TVi and VTM, 5–11 February 2019 – Seat Projections for the Parties</title>
@@ -229,6 +249,6 @@
       <pubDate>Fri, 29 Jun 2018 15:59:10 +0200</pubDate>
       <dc:date>2018-06-29T15:59:10.4959+02:00</dc:date>
     </item>
-    <dc:date>2019-04-28T19:00:30.242721+02:00</dc:date>
+    <dc:date>2019-05-01T20:33:44.132193+02:00</dc:date>
   </channel>
 </rss>
