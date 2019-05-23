@@ -10,7 +10,7 @@ Last result: **11.4%** (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 9.0% | 8.0–10.1% | 7.8–10.4% | 7.5–10.7% | 7.1–11.3% |
+| N/A | [Poll Average](average.html) | 9.2% | 8.1–10.3% | 7.9–10.6% | 7.6–10.9% | 7.2–11.5% |
 | [6–14 May 2019](2019-05-14-Ipsos.html) | Ipsos <br> Het Laatste Nieuws, Le Soir, RTL TVi and VTM | 9.3% | 8.3–10.4% | 8.0–10.8% | 7.8–11.1% | 7.3–11.6% |
 | [25 March–14 April 2019](2019-04-14-TNS.html) | TNS <br> De Standaard, La Libre Belgique, RTBf and VRT | 9.0% | 8.0–10.1% | 7.8–10.5% | 7.5–10.7% | 7.1–11.3% |
 | [5–11 February 2019](2019-02-11-Ipsos.html) | Ipsos <br> Het Laatste Nieuws, Le Soir, RTL TVi and VTM | 9.7% | 8.7–10.9% | 8.4–11.2% | 8.2–11.6% | 7.7–12.1% |
@@ -28,12 +28,12 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 5.5–6.5% | 0% | 100% |  |
-| 6.5–7.5% | 3% | 100% |  |
-| 7.5–8.5% | 24% | 97% |  |
-| 8.5–9.5% | 46% | 73% | Median |
-| 9.5–10.5% | 23% | 27% |  |
-| 10.5–11.5% | 4% | 4% | Last Result |
-| 11.5–12.5% | 0.2% | 0.2% |  |
+| 6.5–7.5% | 2% | 100% |  |
+| 7.5–8.5% | 20% | 98% |  |
+| 8.5–9.5% | 45% | 78% | Median |
+| 9.5–10.5% | 27% | 33% |  |
+| 10.5–11.5% | 6% | 6% | Last Result |
+| 11.5–12.5% | 0.4% | 0.4% |  |
 | 12.5–13.5% | 0% | 0% |  |
 
 
@@ -64,8 +64,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 16% | 100% |  |
-| 1 | 84% | 84% | Last Result, Median |
+| 0 | 19% | 100% |  |
+| 1 | 81% | 81% | Last Result, Median |
 | 2 | 0% | 0% |  |
 
 
