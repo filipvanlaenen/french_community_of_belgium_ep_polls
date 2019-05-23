@@ -9,7 +9,8 @@ The table below lists the polls on which the average is based. They are the most
 | Period     | Polling firm/Commissioner(s) | PS | MR | ECOLO | CDH | PP | PTB | DÉFI | DLB | DROITE | RWF | WDA | PIRATE | FW | ISLAM |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 25 May 2014 | General Election | 29.3% <br> 3 | 27.1% <br> 3 | 11.7% <br> 1 | 11.4% <br> 1 | 6.0% <br> 0 | 5.5% <br> 0 | 3.4% <br> 0 | 3.0% <br> 0 | 1.6% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
-| N/A | Poll Average | 22–26% <br> 2–3 | 16–20% <br> 1–2 | 21–25% <br> 2–3 | 8–11% <br> 0–1 | 2–4% <br> 0 | 13–17% <br> 1–2 | 4–6% <br> 0 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| N/A | Poll Average | 22–29% <br> 2–3 | 16–24% <br> 1–2 | 18–25% <br> 2–3 | 8–11% <br> 0–1 | 2–4% <br> 0 | 8–16% <br> 0–1 | 4–7% <br> 0 | N/A <br> N/A | 1–2% <br> 0 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [6–14 May 2019](2019-05-14-Ipsos.html) | Ipsos <br> Het Laatste Nieuws, Le Soir, RTL TVi and VTM | 24–29% <br> 2–3 | 19–24% <br> 2 | 18–23% <br> 2 | 8–11% <br> 0–1 | 2–4% <br> 0 | 8–11% <br> 0–1 | 5–7% <br> 0 | N/A <br> N/A | 1–2% <br> 0 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [25 March–14 April 2019](2019-04-14-TNS.html) | TNS <br> De Standaard, La Libre Belgique, RTBf and VRT | 22–27% <br> 2–3 | 16–20% <br> 1–2 | 21–25% <br> 2–3 | 8–11% <br> 0–1 | 2–4% <br> 0 | 13–17% <br> 1–2 | 4–6% <br> 0 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | 25 May 2014 | General Election | 29.3% <br> 3 | 27.1% <br> 3 | 11.7% <br> 1 | 11.4% <br> 1 | 6.0% <br> 0 | 5.5% <br> 0 | 3.4% <br> 0 | 3.0% <br> 0 | 1.6% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
 
@@ -43,15 +44,15 @@ Only polls for which at least the sample size has been published are included in
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| <a href="#ps-(s&d)">PS (S&D)</a> | 29.3% | 24.1% | 22.5–25.7% |22.1–26.1% | 21.7–26.5% | 21.0–27.3% |
-| <a href="#mr-(alde)">MR (ALDE)</a> | 27.1% | 18.2% | 16.8–19.6% |16.4–20.1% | 16.1–20.4% | 15.5–21.1% |
-| <a href="#ecolo-(greens/efa)">Ecolo (Greens/EFA)</a> | 11.7% | 22.9% | 21.4–24.5% |21.0–25.0% | 20.6–25.4% | 19.9–26.1% |
-| <a href="#cdh-(epp)">cdH (EPP)</a> | 11.4% | 9.0% | 8.0–10.1% |7.8–10.4% | 7.5–10.7% | 7.1–11.3% |
-| <a href="#parti-populaire-(efdd)">Parti Populaire (EFDD)</a> | 6.0% | 3.0% | 2.4–3.7% |2.3–3.9% | 2.1–4.0% | 1.9–4.4% |
-| <a href="#ptb-(gue/ngl)">PTB (GUE/NGL)</a> | 5.5% | 14.6% | 13.3–15.9% |13.0–16.3% | 12.7–16.7% | 12.1–17.3% |
-| <a href="#défi-(alde)">DéFI (ALDE)</a> | 3.4% | 5.0% | 4.2–5.8% |4.0–6.0% | 3.8–6.3% | 3.5–6.7% |
+| <a href="#ps-(s&d)">PS (S&D)</a> | 29.3% | 25.5% | 23.1–28.0% |22.5–28.5% | 22.1–29.0% | 21.3–29.9% |
+| <a href="#mr-(alde)">MR (ALDE)</a> | 27.1% | 19.9% | 17.3–22.7% |16.8–23.3% | 16.4–23.7% | 15.7–24.5% |
+| <a href="#ecolo-(greens/efa)">Ecolo (Greens/EFA)</a> | 11.7% | 21.6% | 19.3–24.0% |18.8–24.5% | 18.4–25.0% | 17.7–25.8% |
+| <a href="#cdh-(epp)">cdH (EPP)</a> | 11.4% | 9.2% | 8.1–10.3% |7.9–10.6% | 7.6–10.9% | 7.2–11.5% |
+| <a href="#parti-populaire-(efdd)">Parti Populaire (EFDD)</a> | 6.0% | 3.2% | 2.5–3.9% |2.4–4.1% | 2.2–4.3% | 2.0–4.7% |
+| <a href="#ptb-(gue/ngl)">PTB (GUE/NGL)</a> | 5.5% | 11.8% | 8.5–15.5% |8.1–15.9% | 7.9–16.3% | 7.4–17.1% |
+| <a href="#défi-(alde)">DéFI (ALDE)</a> | 3.4% | 5.4% | 4.4–6.6% |4.2–6.9% | 4.0–7.2% | 3.7–7.7% |
 | <a href="#debout-les-belges-(*)">Debout les Belges (*)</a> | 3.0% | N/A | N/A |N/A | N/A | N/A |
-| <a href="#la-droite-(*)">La Droite (*)</a> | 1.6% | N/A | N/A |N/A | N/A | N/A |
+| <a href="#la-droite-(*)">La Droite (*)</a> | 1.6% | 1.2% | 0.8–1.7% |0.8–1.8% | 0.7–1.9% | 0.6–2.2% |
 | <a href="#r.w.f.-(*)">R.W.F. (*)</a> | 0.0% | N/A | N/A |N/A | N/A | N/A |
 | <a href="#wallonie-d’abord-(*)">Wallonie d’Abord (*)</a> | 0.0% | N/A | N/A |N/A | N/A | N/A |
 | <a href="#pirate-(greens/efa)">PIRATE (Greens/EFA)</a> | 0.0% | N/A | N/A |N/A | N/A | N/A |
@@ -66,15 +67,18 @@ Only polls for which at least the sample size has been published are included in
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 18.5–19.5% | 0% | 100% |  |
 | 19.5–20.5% | 0.1% | 100% |  |
-| 20.5–21.5% | 2% | 99.9% |  |
-| 21.5–22.5% | 9% | 98% |  |
-| 22.5–23.5% | 23% | 90% |  |
-| 23.5–24.5% | 32% | 67% | Median |
-| 24.5–25.5% | 23% | 35% |  |
-| 25.5–26.5% | 10% | 12% |  |
-| 26.5–27.5% | 2% | 2% |  |
-| 27.5–28.5% | 0.3% | 0.3% |  |
-| 28.5–29.5% | 0% | 0% | Last Result |
+| 20.5–21.5% | 0.8% | 99.9% |  |
+| 21.5–22.5% | 4% | 99.2% |  |
+| 22.5–23.5% | 12% | 95% |  |
+| 23.5–24.5% | 17% | 83% |  |
+| 24.5–25.5% | 17% | 66% | Median |
+| 25.5–26.5% | 17% | 49% |  |
+| 26.5–27.5% | 16% | 32% |  |
+| 27.5–28.5% | 10% | 15% |  |
+| 28.5–29.5% | 4% | 5% | Last Result |
+| 29.5–30.5% | 0.9% | 1.0% |  |
+| 30.5–31.5% | 0.1% | 0.1% |  |
+| 31.5–32.5% | 0% | 0% |  |
 
 ### MR (ALDE)
 
@@ -83,17 +87,17 @@ Only polls for which at least the sample size has been published are included in
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 13.5–14.5% | 0% | 100% |  |
-| 14.5–15.5% | 0.6% | 100% |  |
-| 15.5–16.5% | 6% | 99.4% |  |
-| 16.5–17.5% | 21% | 94% |  |
-| 17.5–18.5% | 35% | 73% | Median |
-| 18.5–19.5% | 26% | 38% |  |
-| 19.5–20.5% | 9% | 11% |  |
-| 20.5–21.5% | 2% | 2% |  |
-| 21.5–22.5% | 0.2% | 0.2% |  |
-| 22.5–23.5% | 0% | 0% |  |
-| 23.5–24.5% | 0% | 0% |  |
-| 24.5–25.5% | 0% | 0% |  |
+| 14.5–15.5% | 0.3% | 100% |  |
+| 15.5–16.5% | 3% | 99.7% |  |
+| 16.5–17.5% | 11% | 97% |  |
+| 17.5–18.5% | 18% | 86% |  |
+| 18.5–19.5% | 14% | 69% |  |
+| 19.5–20.5% | 11% | 54% | Median |
+| 20.5–21.5% | 15% | 43% |  |
+| 21.5–22.5% | 16% | 28% |  |
+| 22.5–23.5% | 9% | 12% |  |
+| 23.5–24.5% | 3% | 3% |  |
+| 24.5–25.5% | 0.5% | 0.5% |  |
 | 25.5–26.5% | 0% | 0% |  |
 | 26.5–27.5% | 0% | 0% | Last Result |
 
@@ -108,17 +112,17 @@ Only polls for which at least the sample size has been published are included in
 | 13.5–14.5% | 0% | 100% |  |
 | 14.5–15.5% | 0% | 100% |  |
 | 15.5–16.5% | 0% | 100% |  |
-| 16.5–17.5% | 0% | 100% |  |
-| 17.5–18.5% | 0% | 100% |  |
-| 18.5–19.5% | 0.2% | 100% |  |
-| 19.5–20.5% | 2% | 99.8% |  |
-| 20.5–21.5% | 10% | 98% |  |
-| 21.5–22.5% | 25% | 88% |  |
-| 22.5–23.5% | 32% | 63% | Median |
-| 23.5–24.5% | 21% | 31% |  |
-| 24.5–25.5% | 8% | 9% |  |
-| 25.5–26.5% | 2% | 2% |  |
-| 26.5–27.5% | 0.2% | 0.2% |  |
+| 16.5–17.5% | 0.4% | 100% |  |
+| 17.5–18.5% | 3% | 99.6% |  |
+| 18.5–19.5% | 10% | 97% |  |
+| 19.5–20.5% | 17% | 86% |  |
+| 20.5–21.5% | 18% | 69% |  |
+| 21.5–22.5% | 18% | 51% | Median |
+| 22.5–23.5% | 17% | 33% |  |
+| 23.5–24.5% | 11% | 16% |  |
+| 24.5–25.5% | 4% | 5% |  |
+| 25.5–26.5% | 0.8% | 0.9% |  |
+| 26.5–27.5% | 0.1% | 0.1% |  |
 | 27.5–28.5% | 0% | 0% |  |
 
 ### cdH (EPP)
@@ -128,12 +132,12 @@ Only polls for which at least the sample size has been published are included in
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 5.5–6.5% | 0% | 100% |  |
-| 6.5–7.5% | 3% | 100% |  |
-| 7.5–8.5% | 24% | 97% |  |
-| 8.5–9.5% | 46% | 73% | Median |
-| 9.5–10.5% | 23% | 27% |  |
-| 10.5–11.5% | 4% | 4% | Last Result |
-| 11.5–12.5% | 0.2% | 0.2% |  |
+| 6.5–7.5% | 2% | 100% |  |
+| 7.5–8.5% | 20% | 98% |  |
+| 8.5–9.5% | 45% | 78% | Median |
+| 9.5–10.5% | 27% | 33% |  |
+| 10.5–11.5% | 6% | 6% | Last Result |
+| 11.5–12.5% | 0.4% | 0.4% |  |
 | 12.5–13.5% | 0% | 0% |  |
 
 ### Parti Populaire (EFDD)
@@ -143,10 +147,10 @@ Only polls for which at least the sample size has been published are included in
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.5–1.5% | 0% | 100% |  |
-| 1.5–2.5% | 16% | 100% |  |
-| 2.5–3.5% | 69% | 84% | Median |
-| 3.5–4.5% | 14% | 14% |  |
-| 4.5–5.5% | 0.3% | 0.3% |  |
+| 1.5–2.5% | 11% | 100% |  |
+| 2.5–3.5% | 65% | 89% | Median |
+| 3.5–4.5% | 23% | 24% |  |
+| 4.5–5.5% | 0.9% | 0.9% |  |
 | 5.5–6.5% | 0% | 0% | Last Result |
 
 ### PTB (GUE/NGL)
@@ -157,18 +161,18 @@ Only polls for which at least the sample size has been published are included in
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 4.5–5.5% | 0% | 100% | Last Result |
 | 5.5–6.5% | 0% | 100% |  |
-| 6.5–7.5% | 0% | 100% |  |
-| 7.5–8.5% | 0% | 100% |  |
-| 8.5–9.5% | 0% | 100% |  |
-| 9.5–10.5% | 0% | 100% |  |
-| 10.5–11.5% | 0.1% | 100% |  |
-| 11.5–12.5% | 2% | 99.9% |  |
-| 12.5–13.5% | 13% | 98% |  |
-| 13.5–14.5% | 34% | 86% |  |
-| 14.5–15.5% | 34% | 52% | Median |
-| 15.5–16.5% | 15% | 18% |  |
-| 16.5–17.5% | 3% | 3% |  |
-| 17.5–18.5% | 0.3% | 0.3% |  |
+| 6.5–7.5% | 0.9% | 100% |  |
+| 7.5–8.5% | 10% | 99.1% |  |
+| 8.5–9.5% | 23% | 89% |  |
+| 9.5–10.5% | 13% | 66% |  |
+| 10.5–11.5% | 3% | 53% |  |
+| 11.5–12.5% | 1.0% | 50% | Median |
+| 12.5–13.5% | 6% | 49% |  |
+| 13.5–14.5% | 17% | 43% |  |
+| 14.5–15.5% | 17% | 26% |  |
+| 15.5–16.5% | 7% | 9% |  |
+| 16.5–17.5% | 1.4% | 2% |  |
+| 17.5–18.5% | 0.1% | 0.1% |  |
 | 18.5–19.5% | 0% | 0% |  |
 
 ### DéFI (ALDE)
@@ -178,12 +182,25 @@ Only polls for which at least the sample size has been published are included in
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 1.5–2.5% | 0% | 100% |  |
-| 2.5–3.5% | 0.6% | 100% | Last Result |
-| 3.5–4.5% | 25% | 99.4% |  |
-| 4.5–5.5% | 57% | 75% | Median |
-| 5.5–6.5% | 17% | 18% |  |
-| 6.5–7.5% | 0.9% | 0.9% |  |
-| 7.5–8.5% | 0% | 0% |  |
+| 2.5–3.5% | 0.3% | 100% | Last Result |
+| 3.5–4.5% | 13% | 99.7% |  |
+| 4.5–5.5% | 41% | 87% | Median |
+| 5.5–6.5% | 35% | 46% |  |
+| 6.5–7.5% | 10% | 10% |  |
+| 7.5–8.5% | 0.8% | 0.8% |  |
+| 8.5–9.5% | 0% | 0% |  |
+
+### La Droite (*)
+
+*For a full overview of the results for this party, see the [La Droite (*)](party-ladroite.html) page.*
+
+| Voting Intentions | Probability | Accumulated | Special Marks |
+|:-----------------:|:-----------:|:-----------:|:-------------:|
+| 0.0–0.5% | 0.4% | 100% |  |
+| 0.5–1.5% | 85% | 99.6% | Median |
+| 1.5–2.5% | 15% | 15% | Last Result |
+| 2.5–3.5% | 0% | 0% |  |
+| 3.5–4.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -195,14 +212,14 @@ Only polls for which at least the sample size has been published are included in
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | <a href="#ps-(s&d)">PS (S&D)</a> | 3 | 2 | 2–3 |2–3 | 2–3 | 2–3 |
-| <a href="#mr-(alde)">MR (ALDE)</a> | 3 | 2 | 2 |1–2 | 1–2 | 1–2 |
-| <a href="#ecolo-(greens/efa)">Ecolo (Greens/EFA)</a> | 1 | 2 | 2 |2–3 | 2–3 | 2–3 |
+| <a href="#mr-(alde)">MR (ALDE)</a> | 3 | 2 | 2 |2 | 1–2 | 1–2 |
+| <a href="#ecolo-(greens/efa)">Ecolo (Greens/EFA)</a> | 1 | 2 | 2 |2 | 2–3 | 1–3 |
 | <a href="#cdh-(epp)">cdH (EPP)</a> | 1 | 1 | 0–1 |0–1 | 0–1 | 0–1 |
 | <a href="#parti-populaire-(efdd)">Parti Populaire (EFDD)</a> | 0 | 0 | 0 |0 | 0 | 0 |
-| <a href="#ptb-(gue/ngl)">PTB (GUE/NGL)</a> | 0 | 1 | 1 |1 | 1–2 | 1–2 |
+| <a href="#ptb-(gue/ngl)">PTB (GUE/NGL)</a> | 0 | 1 | 0–1 |0–1 | 0–1 | 0–2 |
 | <a href="#défi-(alde)">DéFI (ALDE)</a> | 0 | 0 | 0 |0 | 0 | 0 |
 | <a href="#debout-les-belges-(*)">Debout les Belges (*)</a> | 0 | N/A | N/A |N/A | N/A | N/A |
-| <a href="#la-droite-(*)">La Droite (*)</a> | 0 | N/A | N/A |N/A | N/A | N/A |
+| <a href="#la-droite-(*)">La Droite (*)</a> | 0 | 0 | 0 |0 | 0 | 0 |
 | <a href="#r.w.f.-(*)">R.W.F. (*)</a> | 0 | N/A | N/A |N/A | N/A | N/A |
 | <a href="#wallonie-d’abord-(*)">Wallonie d’Abord (*)</a> | 0 | N/A | N/A |N/A | N/A | N/A |
 | <a href="#pirate-(greens/efa)">PIRATE (Greens/EFA)</a> | 0 | N/A | N/A |N/A | N/A | N/A |
@@ -217,8 +234,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 2 | 84% | 100% | Median |
-| 3 | 16% | 16% | Last Result |
+| 2 | 66% | 100% | Median |
+| 3 | 34% | 34% | Last Result |
 | 4 | 0% | 0% |  |
 
 ### MR (ALDE)
@@ -229,9 +246,10 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 8% | 100% |  |
-| 2 | 92% | 92% | Median |
-| 3 | 0% | 0% | Last Result |
+| 1 | 4% | 100% |  |
+| 2 | 96% | 96% | Median |
+| 3 | 0.1% | 0.1% | Last Result |
+| 4 | 0% | 0% |  |
 
 ### Ecolo (Greens/EFA)
 
@@ -241,9 +259,9 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 0% | 100% | Last Result |
-| 2 | 94% | 100% | Median |
-| 3 | 6% | 6% |  |
+| 1 | 0.7% | 100% | Last Result |
+| 2 | 96% | 99.3% | Median |
+| 3 | 3% | 3% |  |
 | 4 | 0% | 0% |  |
 
 ### cdH (EPP)
@@ -254,8 +272,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 16% | 100% |  |
-| 1 | 84% | 84% | Last Result, Median |
+| 0 | 19% | 100% |  |
+| 1 | 81% | 81% | Last Result, Median |
 | 2 | 0% | 0% |  |
 
 ### Parti Populaire (EFDD)
@@ -276,9 +294,9 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 0% | 100% | Last Result |
-| 1 | 97% | 100% | Median |
-| 2 | 3% | 3% |  |
+| 0 | 15% | 100% | Last Result |
+| 1 | 83% | 85% | Median |
+| 2 | 1.4% | 1.4% |  |
 | 3 | 0% | 0% |  |
 
 ### DéFI (ALDE)
@@ -286,6 +304,16 @@ Only polls for which at least the sample size has been published are included in
 *For a full overview of the results for this party, see the [DéFI (ALDE)](party-défialde.html) page.*
 
 ![Graph with seats probability mass function not yet produced](average-seats-pmf-défialde.png "Seats Probability Mass Function")
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 0 | 100% | 100% | Last Result, Median |
+
+### La Droite (*)
+
+*For a full overview of the results for this party, see the [La Droite (*)](party-ladroite.html) page.*
+
+![Graph with seats probability mass function not yet produced](average-seats-pmf-ladroite.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -300,10 +328,10 @@ Only polls for which at least the sample size has been published are included in
 
 | Coalition | Last Result | Median | Majority? | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:---------:|:-----------:|:------:|:---------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Ecolo (Greens/EFA) – PIRATE (Greens/EFA) | 1 | 2 | 0% | 2 | 2–3 | 2–3 | 2–3 |
+| Ecolo (Greens/EFA) – PIRATE (Greens/EFA) | 1 | 2 | 0% | 2 | 2 | 2–3 | 1–3 |
 | PS (S&D) | 3 | 2 | 0% | 2–3 | 2–3 | 2–3 | 2–3 |
-| MR (ALDE) – DéFI (ALDE) | 3 | 2 | 0% | 2 | 1–2 | 1–2 | 1–2 |
-| PTB (GUE/NGL) | 0 | 1 | 0% | 1 | 1 | 1–2 | 1–2 |
+| MR (ALDE) – DéFI (ALDE) | 3 | 2 | 0% | 2 | 2 | 1–2 | 1–2 |
+| PTB (GUE/NGL) | 0 | 1 | 0% | 0–1 | 0–1 | 0–1 | 0–2 |
 | cdH (EPP) | 1 | 1 | 0% | 0–1 | 0–1 | 0–1 | 0–1 |
 | Debout les Belges (*) – La Droite (*) – FW (*) – ISLAM (*) – R.W.F. (*) – Wallonie d’Abord (*) | 0 | 0 | 0% | 0 | 0 | 0 | 0 |
 | Parti Populaire (EFDD) | 0 | 0 | 0% | 0 | 0 | 0 | 0 |
@@ -314,9 +342,9 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 0% | 100% | Last Result |
-| 2 | 94% | 100% | Median |
-| 3 | 6% | 6% |  |
+| 1 | 0.7% | 100% | Last Result |
+| 2 | 96% | 99.3% | Median |
+| 3 | 3% | 3% |  |
 | 4 | 0% | 0% |  |
 
 ### PS (S&D)
@@ -325,8 +353,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 2 | 84% | 100% | Median |
-| 3 | 16% | 16% | Last Result |
+| 2 | 66% | 100% | Median |
+| 3 | 34% | 34% | Last Result |
 | 4 | 0% | 0% |  |
 
 ### MR (ALDE) – DéFI (ALDE)
@@ -335,9 +363,10 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 8% | 100% |  |
-| 2 | 92% | 92% | Median |
-| 3 | 0% | 0% | Last Result |
+| 1 | 4% | 100% |  |
+| 2 | 96% | 96% | Median |
+| 3 | 0.1% | 0.1% | Last Result |
+| 4 | 0% | 0% |  |
 
 ### PTB (GUE/NGL)
 
@@ -345,9 +374,9 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 0% | 100% | Last Result |
-| 1 | 97% | 100% | Median |
-| 2 | 3% | 3% |  |
+| 0 | 15% | 100% | Last Result |
+| 1 | 83% | 85% | Median |
+| 2 | 1.4% | 1.4% |  |
 | 3 | 0% | 0% |  |
 
 ### cdH (EPP)
@@ -356,8 +385,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 16% | 100% |  |
-| 1 | 84% | 84% | Last Result, Median |
+| 0 | 19% | 100% |  |
+| 1 | 81% | 81% | Last Result, Median |
 | 2 | 0% | 0% |  |
 
 ### Debout les Belges (*) – La Droite (*) – FW (*) – ISLAM (*) – R.W.F. (*) – Wallonie d’Abord (*)
@@ -379,7 +408,7 @@ Only polls for which at least the sample size has been published are included in
 
 ## Technical Information
 
-+ **Number of polls included in this average:** 1
++ **Number of polls included in this average:** 2
 + **Lowest number of simulations done in a poll included in this average:** 1,048,576
-+ **Total number of simulations done in the polls included in this average:** 1,048,576
++ **Total number of simulations done in the polls included in this average:** 2,097,152
 + **Error estimate:** 0.64%
