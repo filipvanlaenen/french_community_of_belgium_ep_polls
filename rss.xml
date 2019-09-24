@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+  xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/">
+  <channel>
+    <title>All Registered Polls for the European Parliament</title>
+    <link>https://filipvanlaenen.github.io/french_community_of_belgium_ep_polls</link>
+    <description>All Registered Polls for the European Parliament</description>
+    <pubDate>Tue, 24 Sep 2019 11:03:30 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Ipsos for Het Laatste Nieuws, Le Soir, RTL TVi and VTM, 2–10 September 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/french_community_of_belgium_ep_polls/2019-09-10-Ipsos.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Parti Socialiste (S&amp;amp;D): 20.5–25.2%&lt;/li&gt;&lt;li&gt;Mouvement Réformateur (RE): 19.6–24.3%&lt;/li&gt;&lt;li&gt;Centre démocrate humaniste (EPP): 6.6–9.7%&lt;/li&gt;&lt;li&gt;Ecolo (Greens/EFA): 15.9–20.3%&lt;/li&gt;&lt;li&gt;Parti du Travail de Belgique (GUE/NGL): 13.0–17.1%&lt;/li&gt;&lt;li&gt;DéFI (RE): 4.9–7.7%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/french_community_of_belgium_ep_polls/2019-09-10-Ipsos.png"
+        length="219859"
+        type="image/png"/>
+      <pubDate>Tue, 24 Sep 2019 11:03:30 +0200</pubDate>
+      <dc:date>2019-09-24T11:03:30.368163+02:00</dc:date>
+    </item>
+    <dc:date>2019-09-24T11:03:30.368163+02:00</dc:date>
+  </channel>
+</rss>
