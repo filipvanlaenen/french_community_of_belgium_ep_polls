@@ -9,8 +9,8 @@ The table below lists the polls on which the average is based. They are the most
 | Period     | Polling firm/Commissioner(s) | PS | MR | ECOLO | CDH | PP | PTB | DÉFI | DLB | DROITE | RWF | WDA | PIRATE | FW | ISLAM |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 26 May 2019 | General Election | 29.3% <br> 3 | 27.1% <br> 3 | 11.7% <br> 1 | 11.4% <br> 1 | 6.0% <br> 0 | 5.5% <br> 0 | 3.4% <br> 0 | 3.0% <br> 0 | 1.6% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
-| N/A | Poll Average | 20–25% <br> 2 | 20–24% <br> 2 | 16–20% <br> 1–2 | 7–10% <br> 0–1 | N/A <br> N/A | 13–17% <br> 1–2 | 5–8% <br> 0 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
-| [2–10 September 2019](2019-09-10-Ipsos.html) | Ipsos <br> Het Laatste Nieuws, Le Soir, RTL TVi and VTM | 20–25% <br> 2 | 20–24% <br> 2 | 16–20% <br> 1–2 | 7–10% <br> 0–1 | N/A <br> N/A | 13–17% <br> 1–2 | 5–8% <br> 0 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| N/A | Poll Average | 20–25% <br> 2–3 | 20–24% <br> 2 | 16–20% <br> 1–2 | 7–10% <br> 0–1 | N/A <br> N/A | 13–17% <br> 1–2 | 5–8% <br> 0 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [2–10 September 2019](2019-09-10-Ipsos.html) | Ipsos <br> Het Laatste Nieuws, Le Soir, RTL TVi and VTM | 20–25% <br> 2–3 | 20–24% <br> 2 | 16–20% <br> 1–2 | 7–10% <br> 0–1 | N/A <br> N/A | 13–17% <br> 1–2 | 5–8% <br> 0 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | 26 May 2019 | General Election | 29.3% <br> 3 | 27.1% <br> 3 | 11.7% <br> 1 | 11.4% <br> 1 | 6.0% <br> 0 | 5.5% <br> 0 | 3.4% <br> 0 | 3.0% <br> 0 | 1.6% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
 
 Only polls for which at least the sample size has been published are included in the table above.
@@ -178,9 +178,9 @@ Only polls for which at least the sample size has been published are included in
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| <a href="#parti-socialiste-(s&d)">Parti Socialiste (S&D)</a> | 3 | 2 | 2 |2 | 2 | 2–3 |
+| <a href="#parti-socialiste-(s&d)">Parti Socialiste (S&D)</a> | 3 | 2 | 2 |2–3 | 2–3 | 2–3 |
 | <a href="#mouvement-réformateur-(re)">Mouvement Réformateur (RE)</a> | 3 | 2 | 2 |2 | 2 | 2–3 |
-| <a href="#ecolo-(greens/efa)">Ecolo (Greens/EFA)</a> | 1 | 2 | 2 |1–2 | 1–2 | 1–2 |
+| <a href="#ecolo-(greens/efa)">Ecolo (Greens/EFA)</a> | 1 | 2 | 1–2 |1–2 | 1–2 | 1–2 |
 | <a href="#centre-démocrate-humaniste-(epp)">Centre démocrate humaniste (EPP)</a> | 1 | 0 | 0–1 |0–1 | 0–1 | 0–1 |
 | <a href="#parti-populaire-(ni)">Parti Populaire (NI)</a> | 0 | N/A | N/A |N/A | N/A | N/A |
 | <a href="#parti-du-travail-de-belgique-(gue/ngl)">Parti du Travail de Belgique (GUE/NGL)</a> | 0 | 1 | 1 |1–2 | 1–2 | 1–2 |
@@ -201,8 +201,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 2 | 98% | 100% | Median |
-| 3 | 2% | 2% | Last Result |
+| 2 | 93% | 100% | Median |
+| 3 | 7% | 7% | Last Result |
 | 4 | 0% | 0% |  |
 
 ### Mouvement Réformateur (RE)
@@ -225,8 +225,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 9% | 100% | Last Result |
-| 2 | 91% | 91% | Median |
+| 1 | 11% | 100% | Last Result |
+| 2 | 89% | 89% | Median |
 | 3 | 0% | 0% |  |
 
 ### Centre démocrate humaniste (EPP)
@@ -237,8 +237,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 63% | 100% | Median |
-| 1 | 37% | 37% | Last Result |
+| 0 | 64% | 100% | Median |
+| 1 | 36% | 36% | Last Result |
 | 2 | 0% | 0% |  |
 
 ### Parti du Travail de Belgique (GUE/NGL)
@@ -250,8 +250,8 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 93% | 100% | Median |
-| 2 | 7% | 7% |  |
+| 1 | 92% | 100% | Median |
+| 2 | 8% | 8% |  |
 | 3 | 0% | 0% |  |
 
 ### DéFI (RE)
@@ -262,8 +262,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 99.3% | 100% | Last Result, Median |
-| 1 | 0.7% | 0.7% |  |
+| 0 | 99.5% | 100% | Last Result, Median |
+| 1 | 0.5% | 0.5% |  |
 | 2 | 0% | 0% |  |
 
 
@@ -276,8 +276,8 @@ Only polls for which at least the sample size has been published are included in
 | Coalition | Last Result | Median | Majority? | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:---------:|:-----------:|:------:|:---------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | Mouvement Réformateur (RE) – DéFI (RE) | 3 | 2 | 0% | 2 | 2 | 2–3 | 2–3 |
-| Parti Socialiste (S&D) | 3 | 2 | 0% | 2 | 2 | 2 | 2–3 |
-| Ecolo (Greens/EFA) – PIRATE (Greens/EFA) | 1 | 2 | 0% | 2 | 1–2 | 1–2 | 1–2 |
+| Parti Socialiste (S&D) | 3 | 2 | 0% | 2 | 2–3 | 2–3 | 2–3 |
+| Ecolo (Greens/EFA) – PIRATE (Greens/EFA) | 1 | 2 | 0% | 1–2 | 1–2 | 1–2 | 1–2 |
 | Parti du Travail de Belgique (GUE/NGL) | 0 | 1 | 0% | 1 | 1–2 | 1–2 | 1–2 |
 | Centre démocrate humaniste (EPP) | 1 | 0 | 0% | 0–1 | 0–1 | 0–1 | 0–1 |
 
@@ -297,8 +297,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 2 | 98% | 100% | Median |
-| 3 | 2% | 2% | Last Result |
+| 2 | 93% | 100% | Median |
+| 3 | 7% | 7% | Last Result |
 | 4 | 0% | 0% |  |
 
 ### Ecolo (Greens/EFA) – PIRATE (Greens/EFA)
@@ -307,8 +307,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 9% | 100% | Last Result |
-| 2 | 91% | 91% | Median |
+| 1 | 11% | 100% | Last Result |
+| 2 | 89% | 89% | Median |
 | 3 | 0% | 0% |  |
 
 ### Parti du Travail de Belgique (GUE/NGL)
@@ -318,8 +318,8 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 93% | 100% | Median |
-| 2 | 7% | 7% |  |
+| 1 | 92% | 100% | Median |
+| 2 | 8% | 8% |  |
 | 3 | 0% | 0% |  |
 
 ### Centre démocrate humaniste (EPP)
@@ -328,14 +328,14 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 63% | 100% | Median |
-| 1 | 37% | 37% | Last Result |
+| 0 | 64% | 100% | Median |
+| 1 | 36% | 36% | Last Result |
 | 2 | 0% | 0% |  |
 
 
 ## Technical Information
 
 + **Number of polls included in this average:** 1
-+ **Lowest number of simulations done in a poll included in this average:** 131,072
-+ **Total number of simulations done in the polls included in this average:** 131,072
-+ **Error estimate:** 0.90%
++ **Lowest number of simulations done in a poll included in this average:** 1,048,576
++ **Total number of simulations done in the polls included in this average:** 1,048,576
++ **Error estimate:** 0.52%
