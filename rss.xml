@@ -8,7 +8,37 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/french_community_of_belgium_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Mon, 12 Oct 2020 08:20:58 +0200</pubDate>
+    <pubDate>Sat, 12 Dec 2020 12:26:13 +0100</pubDate>
+    <item>
+      <title>Opinion Poll by Ipsos for Het Laatste Nieuws, Le Soir, RTL TVi and VTM, 2–8 December 2020 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/french_community_of_belgium_ep_polls/2020-12-08-Ipsos.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Parti Socialiste (S&amp;amp;D): 2 seats&lt;/li&gt;&lt;li&gt;Mouvement Réformateur (RE): 1–2 seats&lt;/li&gt;&lt;li&gt;Centre démocrate humaniste (EPP): 0–1 seats&lt;/li&gt;&lt;li&gt;Ecolo (Greens/EFA): 1–2 seats&lt;/li&gt;&lt;li&gt;Parti du Travail de Belgique (GUE/NGL): 1–2 seats&lt;/li&gt;&lt;li&gt;DéFI (RE): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/french_community_of_belgium_ep_polls/2020-12-08-Ipsos-seats.png"
+        length="227630"
+        type="image/png"/>
+      <pubDate>Sat, 12 Dec 2020 12:26:13 +0100</pubDate>
+      <dc:date>2020-12-12T12:26:13.31115+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Ipsos for Het Laatste Nieuws, Le Soir, RTL TVi and VTM, 2–8 December 2020 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/french_community_of_belgium_ep_polls/2020-12-08-Ipsos.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/french_community_of_belgium_ep_polls/2020-12-08-Ipsos-coalitions-seats.png"
+        length="218609"
+        type="image/png"/>
+      <pubDate>Sat, 12 Dec 2020 12:26:13 +0100</pubDate>
+      <dc:date>2020-12-12T12:26:13.31115+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Ipsos for Het Laatste Nieuws, Le Soir, RTL TVi and VTM, 2–8 December 2020 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/french_community_of_belgium_ep_polls/2020-12-08-Ipsos.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Parti Socialiste (S&amp;amp;D): 20.5–25.2%&lt;/li&gt;&lt;li&gt;Mouvement Réformateur (RE): 17.7–22.3%&lt;/li&gt;&lt;li&gt;Centre démocrate humaniste (EPP): 8.0–11.3%&lt;/li&gt;&lt;li&gt;Ecolo (Greens/EFA): 15.2–19.5%&lt;/li&gt;&lt;li&gt;Parti du Travail de Belgique (GUE/NGL): 15.2–19.5%&lt;/li&gt;&lt;li&gt;DéFI (RE): 4.1–6.7%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/french_community_of_belgium_ep_polls/2020-12-08-Ipsos.png"
+        length="242329"
+        type="image/png"/>
+      <pubDate>Sat, 12 Dec 2020 12:26:13 +0100</pubDate>
+      <dc:date>2020-12-12T12:26:13.31115+01:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Ipsos for Het Laatste Nieuws, Le Soir, RTL TVi and VTM, 2–8 October 2020 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/french_community_of_belgium_ep_polls/2020-10-08-Ipsos.html#seats</link>
@@ -159,6 +189,6 @@
       <pubDate>Fri, 27 Sep 2019 16:53:48 +0200</pubDate>
       <dc:date>2019-09-27T16:53:48.531024+02:00</dc:date>
     </item>
-    <dc:date>2020-10-12T08:20:58.299218+02:00</dc:date>
+    <dc:date>2020-12-12T12:26:13.31115+01:00</dc:date>
   </channel>
 </rss>
