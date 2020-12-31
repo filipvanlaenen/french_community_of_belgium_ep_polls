@@ -24,7 +24,7 @@ Only polls for which at least the sample size has been published are included in
 + **CDH:** Centre démocrate humaniste (EPP)
 + **PP:** Parti Populaire (NI)
 + **PTB:** Parti du Travail de Belgique (GUE/NGL)
-+ **DÉFI:** DéFI (RE)
++ **DÉFI:** DéFI (*)
 + **DLB:** Debout les Belges (*)
 + **DROITE:** La Droite (*)
 + **RWF:** R.W.F. (*)
@@ -49,7 +49,7 @@ Only polls for which at least the sample size has been published are included in
 | <a href="#centre-démocrate-humaniste-(epp)">Centre démocrate humaniste (EPP)</a> | 11.4% | 9.6% | 8.5–10.7% |8.2–11.0% | 8.0–11.3% | 7.5–11.9% |
 | <a href="#parti-populaire-(ni)">Parti Populaire (NI)</a> | 6.0% | N/A | N/A |N/A | N/A | N/A |
 | <a href="#parti-du-travail-de-belgique-(gue/ngl)">Parti du Travail de Belgique (GUE/NGL)</a> | 5.5% | 17.2% | 15.9–18.7% |15.5–19.1% | 15.2–19.5% | 14.5–20.2% |
-| <a href="#défi-(re)">DéFI (RE)</a> | 3.4% | 5.3% | 4.5–6.1% |4.3–6.4% | 4.1–6.7% | 3.8–7.1% |
+| <a href="#défi-(*)">DéFI (*)</a> | 3.4% | 5.3% | 4.5–6.1% |4.3–6.4% | 4.1–6.7% | 3.8–7.1% |
 | <a href="#debout-les-belges-(*)">Debout les Belges (*)</a> | 3.0% | N/A | N/A |N/A | N/A | N/A |
 | <a href="#la-droite-(*)">La Droite (*)</a> | 1.6% | N/A | N/A |N/A | N/A | N/A |
 | <a href="#r.w.f.-(*)">R.W.F. (*)</a> | 0.0% | N/A | N/A |N/A | N/A | N/A |
@@ -156,9 +156,9 @@ Only polls for which at least the sample size has been published are included in
 | 20.5–21.5% | 0.2% | 0.2% |  |
 | 21.5–22.5% | 0% | 0% |  |
 
-### DéFI (RE)
+### DéFI (*)
 
-*For a full overview of the results for this party, see the [DéFI (RE)](party-défire.html) page.*
+*For a full overview of the results for this party, see the [DéFI (*)](party-défi.html) page.*
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
@@ -188,7 +188,7 @@ Only polls for which at least the sample size has been published are included in
 | <a href="#centre-démocrate-humaniste-(epp)">Centre démocrate humaniste (EPP)</a> | 1 | 1 | 0–1 |0–1 | 0–1 | 0–1 |
 | <a href="#parti-populaire-(ni)">Parti Populaire (NI)</a> | 0 | N/A | N/A |N/A | N/A | N/A |
 | <a href="#parti-du-travail-de-belgique-(gue/ngl)">Parti du Travail de Belgique (GUE/NGL)</a> | 0 | 1 | 1–2 |1–2 | 1–2 | 1–2 |
-| <a href="#défi-(re)">DéFI (RE)</a> | 0 | 0 | 0 |0 | 0 | 0 |
+| <a href="#défi-(*)">DéFI (*)</a> | 0 | 0 | 0 |0 | 0 | 0 |
 | <a href="#debout-les-belges-(*)">Debout les Belges (*)</a> | 0 | N/A | N/A |N/A | N/A | N/A |
 | <a href="#la-droite-(*)">La Droite (*)</a> | 0 | N/A | N/A |N/A | N/A | N/A |
 | <a href="#r.w.f.-(*)">R.W.F. (*)</a> | 0 | N/A | N/A |N/A | N/A | N/A |
@@ -264,11 +264,11 @@ Only polls for which at least the sample size has been published are included in
 | 2 | 43% | 43% |  |
 | 3 | 0% | 0% |  |
 
-### DéFI (RE)
+### DéFI (*)
 
-*For a full overview of the results for this party, see the [DéFI (RE)](party-défire.html) page.*
+*For a full overview of the results for this party, see the [DéFI (*)](party-défi.html) page.*
 
-![Graph with seats probability mass function not yet produced](average-seats-pmf-défire.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-seats-pmf-défi.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -326,8 +326,8 @@ Only polls for which at least the sample size has been published are included in
 | Coalition | Last Result | Median | Majority? | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:---------:|:-----------:|:------:|:---------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | Parti Socialiste (S&D) | 3 | 2 | 0% | 2 | 2 | 2 | 2–3 |
-| Mouvement Réformateur (RE) – DéFI (RE) | 3 | 2 | 0% | 2 | 2 | 1–2 | 1–2 |
 | Ecolo (Greens/EFA) – PIRATE (Greens/EFA) | 1 | 1 | 0% | 1–2 | 1–2 | 1–2 | 1–2 |
+| Mouvement Réformateur (RE) | 3 | 2 | 0% | 2 | 2 | 1–2 | 1–2 |
 | Parti du Travail de Belgique (GUE/NGL) | 0 | 1 | 0% | 1–2 | 1–2 | 1–2 | 1–2 |
 | Centre démocrate humaniste (EPP) | 1 | 1 | 0% | 0–1 | 0–1 | 0–1 | 0–1 |
 
@@ -341,16 +341,6 @@ Only polls for which at least the sample size has been published are included in
 | 3 | 2% | 2% | Last Result |
 | 4 | 0% | 0% |  |
 
-### Mouvement Réformateur (RE) – DéFI (RE)
-
-![Graph with seats probability mass function not yet produced](average-coalitions-seats-pmf-mr–défi.png "Seats Probability Mass Function")
-
-| Number of Seats | Probability | Accumulated | Special Marks |
-|:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 3% | 100% |  |
-| 2 | 97% | 97% | Median |
-| 3 | 0% | 0% | Last Result |
-
 ### Ecolo (Greens/EFA) – PIRATE (Greens/EFA)
 
 ![Graph with seats probability mass function not yet produced](average-coalitions-seats-pmf-ecolo–pirate.png "Seats Probability Mass Function")
@@ -360,6 +350,16 @@ Only polls for which at least the sample size has been published are included in
 | 1 | 54% | 100% | Last Result, Median |
 | 2 | 46% | 46% |  |
 | 3 | 0% | 0% |  |
+
+### Mouvement Réformateur (RE)
+
+![Graph with seats probability mass function not yet produced](average-coalitions-seats-pmf-mr.png "Seats Probability Mass Function")
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 1 | 3% | 100% |  |
+| 2 | 97% | 97% | Median |
+| 3 | 0% | 0% | Last Result |
 
 ### Parti du Travail de Belgique (GUE/NGL)
 
