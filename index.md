@@ -20,7 +20,7 @@ Only polls for which at least the sample size has been published are included in
 + **CDH:** Centre démocrate humaniste (EPP)
 + **PP:** Parti Populaire (NI)
 + **PTB:** Parti du Travail de Belgique (GUE/NGL)
-+ **DÉFI:** DéFI (RE)
++ **DÉFI:** DéFI (*)
 + **DLB:** Debout les Belges (*)
 + **DROITE:** La Droite (*)
 + **RWF:** R.W.F. (*)
