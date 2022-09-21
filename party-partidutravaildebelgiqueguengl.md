@@ -10,7 +10,8 @@ Last result: **5.5%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 18.4% | 17.0–19.9% | 16.6–20.3% | 16.3–20.7% | 15.7–21.4% |
+| N/A | [Poll Average](average.html) | 17.4% | 16.1–18.9% | 15.7–19.3% | 15.4–19.6% | 14.8–20.4% |
+| [7–13 September 2022](2022-09-13-Ipsos.html) | Ipsos <br> Het Laatste Nieuws, Le Soir, RTL TVi and VTM | 17.4% | 16.1–18.9% | 15.7–19.3% | 15.4–19.6% | 14.8–20.4% |
 | [6–14 June 2022](2022-06-14-Ipsos.html) | Ipsos <br> Het Laatste Nieuws, Le Soir, RTL TVi and VTM | 18.4% | 17.0–19.9% | 16.6–20.3% | 16.3–20.7% | 15.7–21.4% |
 | [15–22 March 2022](2022-03-22-Ipsos.html) | Ipsos <br> Het Laatste Nieuws, Le Soir, RTL TVi and VTM | 19.4% | 18.0–20.9% | 17.6–21.4% | 17.3–21.7% | 16.6–22.5% |
 | [1–8 December 2021](2021-12-08-Ipsos.html) | Ipsos <br> Het Laatste Nieuws, Le Soir, RTL TVi and VTM | 18.0% | 16.6–19.5% | 16.2–19.9% | 15.9–20.3% | 15.2–21.1% |
@@ -39,16 +40,15 @@ The following table shows the probability mass function per percentage block of 
 | 10.5–11.5% | 0% | 100% |  |
 | 11.5–12.5% | 0% | 100% |  |
 | 12.5–13.5% | 0% | 100% |  |
-| 13.5–14.5% | 0% | 100% |  |
-| 14.5–15.5% | 0.3% | 100% |  |
-| 15.5–16.5% | 4% | 99.7% |  |
-| 16.5–17.5% | 17% | 96% |  |
-| 17.5–18.5% | 33% | 79% | Median |
-| 18.5–19.5% | 30% | 46% |  |
-| 19.5–20.5% | 13% | 16% |  |
-| 20.5–21.5% | 3% | 3% |  |
-| 21.5–22.5% | 0.3% | 0.4% |  |
-| 22.5–23.5% | 0% | 0% |  |
+| 13.5–14.5% | 0.3% | 100% |  |
+| 14.5–15.5% | 3% | 99.7% |  |
+| 15.5–16.5% | 17% | 96% |  |
+| 16.5–17.5% | 33% | 80% | Median |
+| 17.5–18.5% | 30% | 46% |  |
+| 18.5–19.5% | 13% | 16% |  |
+| 19.5–20.5% | 3% | 3% |  |
+| 20.5–21.5% | 0.3% | 0.3% |  |
+| 21.5–22.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -59,7 +59,8 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2 | 2 | 1–2 | 1–2 | 1–2 |
+| N/A | [Poll Average](average.html) | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
+| [7–13 September 2022](2022-09-13-Ipsos.html) | Ipsos <br> Het Laatste Nieuws, Le Soir, RTL TVi and VTM | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [6–14 June 2022](2022-06-14-Ipsos.html) | Ipsos <br> Het Laatste Nieuws, Le Soir, RTL TVi and VTM | 2 | 2 | 1–2 | 1–2 | 1–2 |
 | [15–22 March 2022](2022-03-22-Ipsos.html) | Ipsos <br> Het Laatste Nieuws, Le Soir, RTL TVi and VTM | 2 | 2 | 1–2 | 1–2 | 1–2 |
 | [1–8 December 2021](2021-12-08-Ipsos.html) | Ipsos <br> Het Laatste Nieuws, Le Soir, RTL TVi and VTM | 2 | 2 | 1–2 | 1–2 | 1–2 |
@@ -82,8 +83,8 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 9% | 100% |  |
-| 2 | 91% | 91% | Median |
+| 1 | 30% | 100% |  |
+| 2 | 70% | 70% | Median |
 | 3 | 0% | 0% |  |
 
 
