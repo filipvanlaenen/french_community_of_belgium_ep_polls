@@ -8,7 +8,37 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/french_community_of_belgium_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sun, 19 Jun 2022 22:42:57 +0200</pubDate>
+    <pubDate>Wed, 21 Sep 2022 17:04:34 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Ipsos for Het Laatste Nieuws, Le Soir, RTL TVi and VTM, 7–13 September 2022 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/french_community_of_belgium_ep_polls/2022-09-13-Ipsos.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Parti Socialiste (S&amp;amp;D): 2–3 seats&lt;/li&gt;&lt;li&gt;Mouvement Réformateur (RE): 2 seats&lt;/li&gt;&lt;li&gt;Centre démocrate humaniste (EPP): 0–1 seats&lt;/li&gt;&lt;li&gt;Ecolo (Greens/EFA): 1 seats&lt;/li&gt;&lt;li&gt;Parti du Travail de Belgique (GUE/NGL): 1–2 seats&lt;/li&gt;&lt;li&gt;DéFI (*): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/french_community_of_belgium_ep_polls/2022-09-13-Ipsos-seats.png"
+        length="198139"
+        type="image/png"/>
+      <pubDate>Wed, 21 Sep 2022 17:04:34 +0200</pubDate>
+      <dc:date>2022-09-21T17:04:34.770293+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Ipsos for Het Laatste Nieuws, Le Soir, RTL TVi and VTM, 7–13 September 2022 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/french_community_of_belgium_ep_polls/2022-09-13-Ipsos.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/french_community_of_belgium_ep_polls/2022-09-13-Ipsos-coalitions-seats.png"
+        length="145419"
+        type="image/png"/>
+      <pubDate>Wed, 21 Sep 2022 17:04:34 +0200</pubDate>
+      <dc:date>2022-09-21T17:04:34.770293+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Ipsos for Het Laatste Nieuws, Le Soir, RTL TVi and VTM, 7–13 September 2022 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/french_community_of_belgium_ep_polls/2022-09-13-Ipsos.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Parti Socialiste (S&amp;amp;D): 20.6–25.4%&lt;/li&gt;&lt;li&gt;Mouvement Réformateur (RE): 19.7–24.3%&lt;/li&gt;&lt;li&gt;Centre démocrate humaniste (EPP): 6.8–9.9%&lt;/li&gt;&lt;li&gt;Ecolo (Greens/EFA): 12.2–16.1%&lt;/li&gt;&lt;li&gt;Parti du Travail de Belgique (GUE/NGL): 15.4–19.6%&lt;/li&gt;&lt;li&gt;DéFI (*): 5.1–7.8%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/french_community_of_belgium_ep_polls/2022-09-13-Ipsos.png"
+        length="242229"
+        type="image/png"/>
+      <pubDate>Wed, 21 Sep 2022 17:04:34 +0200</pubDate>
+      <dc:date>2022-09-21T17:04:34.770293+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Ipsos for Het Laatste Nieuws, Le Soir, RTL TVi and VTM, 6–14 June 2022 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/french_community_of_belgium_ep_polls/2022-06-14-Ipsos.html#seats</link>
@@ -369,6 +399,6 @@
       <pubDate>Fri, 27 Sep 2019 16:53:48 +0200</pubDate>
       <dc:date>2019-09-27T16:53:48+02:00</dc:date>
     </item>
-    <dc:date>2022-06-19T22:42:57.176682+02:00</dc:date>
+    <dc:date>2022-09-21T17:04:34.770293+02:00</dc:date>
   </channel>
 </rss>
