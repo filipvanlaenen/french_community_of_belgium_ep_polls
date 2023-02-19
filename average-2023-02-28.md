@@ -10,7 +10,7 @@ The table below lists the polls on which the average is based. They are the most
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 26 May 2019 | General Election | 29.3% <br> 3 | 27.1% <br> 3 | 11.7% <br> 1 | 11.4% <br> 1 | 6.0% <br> 0 | 5.5% <br> 0 | 3.4% <br> 0 | 3.0% <br> 0 | 1.6% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
 | N/A | Poll Average | 22–29% <br> 2–3 | 17–23% <br> 1–2 | 11–16% <br> 1 | 6–11% <br> 0–1 | N/A <br> N/A | 17–23% <br> 1–2 | 4–8% <br> 0 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
-| [16–29 January 2023](2023-01-29-Kantar.html) | Kantar <br> La Libre Belgique | 22–29% <br> 2–3 | 17–23% <br> 1–2 | 11–17% <br> 1 | 6–11% <br> 0–1 | N/A <br> N/A | 17–23% <br> 1–2 | 5–8% <br> 0 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [16–29 January 2023](2023-01-29-Kantar.html) | Kantar <br> La Libre Belgique and RTBf | 22–29% <br> 2–3 | 17–23% <br> 1–2 | 11–17% <br> 1 | 6–11% <br> 0–1 | N/A <br> N/A | 17–23% <br> 1–2 | 5–8% <br> 0 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | 26 May 2019 | General Election | 29.3% <br> 3 | 27.1% <br> 3 | 11.7% <br> 1 | 11.4% <br> 1 | 6.0% <br> 0 | 5.5% <br> 0 | 3.4% <br> 0 | 3.0% <br> 0 | 1.6% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
 
 Only polls for which at least the sample size has been published are included in the table above.
