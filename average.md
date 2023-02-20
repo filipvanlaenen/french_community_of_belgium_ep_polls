@@ -21,7 +21,7 @@ Only polls for which at least the sample size has been published are included in
 + **PS:** Parti Socialiste (S&D)
 + **MR:** Mouvement Réformateur (RE)
 + **ECOLO:** Ecolo (Greens/EFA)
-+ **CDH:** Centre démocrate humaniste (EPP)
++ **CDH:** Les Engagés (EPP)
 + **PP:** Parti Populaire (NI)
 + **PTB:** Parti du Travail de Belgique (GUE/NGL)
 + **DÉFI:** DéFI (*)
@@ -46,7 +46,7 @@ Only polls for which at least the sample size has been published are included in
 | <a href="#parti-socialiste-(s&d)">Parti Socialiste (S&D)</a> | 29.3% | 25.1% | 22.9–27.4% |22.3–28.1% | 21.7–28.7% | 20.7–29.8% |
 | <a href="#mouvement-réformateur-(re)">Mouvement Réformateur (RE)</a> | 27.1% | 19.6% | 17.6–21.7% |17.0–22.4% | 16.6–22.9% | 15.7–24.0% |
 | <a href="#ecolo-(greens/efa)">Ecolo (Greens/EFA)</a> | 11.7% | 13.6% | 11.9–15.5% |11.4–16.0% | 11.0–16.5% | 10.3–17.5% |
-| <a href="#centre-démocrate-humaniste-(epp)">Centre démocrate humaniste (EPP)</a> | 11.4% | 8.4% | 7.1–10.0% |6.7–10.4% | 6.4–10.8% | 5.8–11.7% |
+| <a href="#les-engagés-(epp)">Les Engagés (EPP)</a> | 11.4% | 8.4% | 7.1–10.0% |6.7–10.4% | 6.4–10.8% | 5.8–11.7% |
 | <a href="#parti-populaire-(ni)">Parti Populaire (NI)</a> | 6.0% | N/A | N/A |N/A | N/A | N/A |
 | <a href="#parti-du-travail-de-belgique-(gue/ngl)">Parti du Travail de Belgique (GUE/NGL)</a> | 5.5% | 19.9% | 17.9–22.1% |17.3–22.7% | 16.9–23.3% | 16.0–24.3% |
 | <a href="#défi-(*)">DéFI (*)</a> | 3.4% | 6.3% | 5.1–7.6% |4.8–8.0% | 4.5–8.4% | 4.0–9.2% |
@@ -120,9 +120,9 @@ Only polls for which at least the sample size has been published are included in
 | 18.5–19.5% | 0.1% | 0.1% |  |
 | 19.5–20.5% | 0% | 0% |  |
 
-### Centre démocrate humaniste (EPP)
+### Les Engagés (EPP)
 
-*For a full overview of the results for this party, see the [Centre démocrate humaniste (EPP)](party-centredémocratehumanisteepp.html) page.*
+*For a full overview of the results for this party, see the [Les Engagés (EPP)](party-lesengagésepp.html) page.*
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
@@ -198,7 +198,7 @@ Only polls for which at least the sample size has been published are included in
 | <a href="#parti-socialiste-(s&d)">Parti Socialiste (S&D)</a> | 3 | 2 | 2–3 |2–3 | 2–3 | 2–3 |
 | <a href="#mouvement-réformateur-(re)">Mouvement Réformateur (RE)</a> | 3 | 2 | 2 |1–2 | 1–2 | 1–2 |
 | <a href="#ecolo-(greens/efa)">Ecolo (Greens/EFA)</a> | 1 | 1 | 1 |1 | 1 | 1–2 |
-| <a href="#centre-démocrate-humaniste-(epp)">Centre démocrate humaniste (EPP)</a> | 1 | 0 | 0–1 |0–1 | 0–1 | 0–1 |
+| <a href="#les-engagés-(epp)">Les Engagés (EPP)</a> | 1 | 0 | 0–1 |0–1 | 0–1 | 0–1 |
 | <a href="#parti-populaire-(ni)">Parti Populaire (NI)</a> | 0 | N/A | N/A |N/A | N/A | N/A |
 | <a href="#parti-du-travail-de-belgique-(gue/ngl)">Parti du Travail de Belgique (GUE/NGL)</a> | 0 | 2 | 2 |2 | 1–2 | 1–2 |
 | <a href="#défi-(*)">DéFI (*)</a> | 0 | 0 | 0 |0 | 0 | 0–1 |
@@ -247,11 +247,11 @@ Only polls for which at least the sample size has been published are included in
 | 2 | 2% | 2% |  |
 | 3 | 0% | 0% |  |
 
-### Centre démocrate humaniste (EPP)
+### Les Engagés (EPP)
 
-*For a full overview of the results for this party, see the [Centre démocrate humaniste (EPP)](party-centredémocratehumanisteepp.html) page.*
+*For a full overview of the results for this party, see the [Les Engagés (EPP)](party-lesengagésepp.html) page.*
 
-![Graph with seats probability mass function not yet produced](average-seats-pmf-centredémocratehumanisteepp.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-seats-pmf-lesengagésepp.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -346,7 +346,7 @@ Only polls for which at least the sample size has been published are included in
 | Mouvement Réformateur (RE) | 3 | 2 | 0% | 2 | 1–2 | 1–2 | 1–2 |
 | Parti du Travail de Belgique (GUE/NGL) | 0 | 2 | 0% | 2 | 2 | 1–2 | 1–2 |
 | Ecolo (Greens/EFA) – PIRATE (Greens/EFA) | 1 | 1 | 0% | 1 | 1 | 1 | 1–2 |
-| Centre démocrate humaniste (EPP) | 1 | 0 | 0% | 0–1 | 0–1 | 0–1 | 0–1 |
+| Les Engagés (EPP) | 1 | 0 | 0% | 0–1 | 0–1 | 0–1 | 0–1 |
 
 ### Parti Socialiste (S&D)
 
@@ -391,7 +391,7 @@ Only polls for which at least the sample size has been published are included in
 | 2 | 2% | 2% |  |
 | 3 | 0% | 0% |  |
 
-### Centre démocrate humaniste (EPP)
+### Les Engagés (EPP)
 
 ![Graph with seats probability mass function not yet produced](average-coalitions-seats-pmf-cdh.png "Seats Probability Mass Function")
 
