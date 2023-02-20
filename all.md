@@ -2,7 +2,7 @@
 
 The table below lists all polls registered and analyzed so far.
 
-| Period     | Polling firm/Commissioner(s) | PS | MR | ECOLO | CDH | PP | PTB | DÉFI | DLB | DROITE | RWF | WDA | PIRATE | FW | ISLAM |
+| Period     | Polling firm/Commissioner(s) | PS | MR | ECOLO | LE | PP | PTB | DÉFI | DLB | DROITE | RWF | WDA | PIRATE | FW | ISLAM |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 26 May 2019 | General Election | 29.3% <br> 3 | 27.1% <br> 3 | 11.7% <br> 1 | 11.4% <br> 1 | 6.0% <br> 0 | 5.5% <br> 0 | 3.4% <br> 0 | 3.0% <br> 0 | 1.6% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
 | [16–29 January 2023](2023-01-29-Kantar.html) | Kantar <br> La Libre Belgique and RTBf | 22–29% <br> 2–3 | 17–23% <br> 1–2 | 11–17% <br> 1 | 6–11% <br> 0–1 | N/A <br> N/A | 17–23% <br> 1–2 | 5–8% <br> 0 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
@@ -30,7 +30,7 @@ Only polls for which at least the sample size has been published are included in
 + **PS:** Parti Socialiste (S&D)
 + **MR:** Mouvement Réformateur (RE)
 + **ECOLO:** Ecolo (Greens/EFA)
-+ **CDH:** Les Engagés (EPP)
++ **LE:** Les Engagés (EPP)
 + **PP:** Parti Populaire (NI)
 + **PTB:** Parti du Travail de Belgique (GUE/NGL)
 + **DÉFI:** DéFI (*)
