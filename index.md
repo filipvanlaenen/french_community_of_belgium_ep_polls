@@ -17,7 +17,7 @@ Only polls for which at least the sample size has been published are included in
 + **PS:** Parti Socialiste (S&D)
 + **MR:** Mouvement Réformateur (RE)
 + **ECOLO:** Ecolo (Greens/EFA)
-+ **CDH:** Centre démocrate humaniste (EPP)
++ **CDH:** Les Engagés (EPP)
 + **PP:** Parti Populaire (NI)
 + **PTB:** Parti du Travail de Belgique (GUE/NGL)
 + **DÉFI:** DéFI (*)
