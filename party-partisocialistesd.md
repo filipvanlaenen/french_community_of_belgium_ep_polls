@@ -10,8 +10,8 @@ Last result: **29.3%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 26.8% | 25.3–28.2% | 24.9–28.7% | 24.6–29.0% | 23.9–29.8% |
-| [23 February–5 March 2024](2024-03-05-Ipsos.html) | Ipsos <br> Euronews | 26.7% | 25.3–28.2% | 24.9–28.7% | 24.6–29.0% | 23.9–29.8% |
+| N/A | [Poll Average](average.html) | 26.7% | 24.7–28.8% | 24.1–29.4% | 23.6–29.9% | 22.7–31.0% |
+| [23 February–5 March 2024](2024-03-05-Ipsos.html) | Ipsos <br> Euronews | 26.7% | 24.7–28.8% | 24.1–29.4% | 23.6–29.9% | 22.7–31.0% |
 | [22 January–8 February 2024](2024-02-08-Kantar.html) | Kantar <br> Knack and Le Vif | 23.1% | 21.6–24.7% | 21.2–25.2% | 20.8–25.6% | 20.1–26.4% |
 | [4–11 December 2023](2023-12-11-Ipsos.html) | Ipsos <br> Het Laatste Nieuws, Le Soir, RTL TVi and VTM | 22.8% | 21.3–24.4% | 20.9–24.9% | 20.5–25.3% | 19.8–26.0% |
 | [10 September–9 October 2023](2023-10-09-Kantar.html) | Kantar <br> La Libre Belgique and RTBf | 26.7% | 24.3–29.3% | 23.6–30.0% | 23.1–30.7% | 21.9–31.9% |
@@ -40,17 +40,19 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 21.5–22.5% | 0% | 100% |  |
-| 22.5–23.5% | 0.2% | 100% |  |
-| 23.5–24.5% | 2% | 99.8% |  |
-| 24.5–25.5% | 12% | 98% |  |
-| 25.5–26.5% | 29% | 86% |  |
-| 26.5–27.5% | 33% | 57% | Median |
-| 27.5–28.5% | 18% | 24% |  |
-| 28.5–29.5% | 5% | 6% | Last Result |
-| 29.5–30.5% | 0.8% | 0.8% |  |
-| 30.5–31.5% | 0.1% | 0.1% |  |
-| 31.5–32.5% | 0% | 0% |  |
+| 20.5–21.5% | 0% | 100% |  |
+| 21.5–22.5% | 0.3% | 100% |  |
+| 22.5–23.5% | 2% | 99.6% |  |
+| 23.5–24.5% | 6% | 98% |  |
+| 24.5–25.5% | 15% | 91% |  |
+| 25.5–26.5% | 23% | 77% |  |
+| 26.5–27.5% | 24% | 54% | Median |
+| 27.5–28.5% | 17% | 30% |  |
+| 28.5–29.5% | 9% | 13% | Last Result |
+| 29.5–30.5% | 3% | 4% |  |
+| 30.5–31.5% | 0.9% | 1.0% |  |
+| 31.5–32.5% | 0.2% | 0.2% |  |
+| 32.5–33.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -93,8 +95,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 2 | 83% | 100% | Median |
-| 3 | 17% | 17% | Last Result |
+| 2 | 74% | 100% | Median |
+| 3 | 26% | 26% | Last Result |
 | 4 | 0% | 0% |  |
 
 

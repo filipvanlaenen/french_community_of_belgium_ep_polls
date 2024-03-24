@@ -10,8 +10,8 @@ Last result: **3.4%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2.8% | 2.3–3.4% | 2.2–3.6% | 2.1–3.8% | 1.9–4.1% |
-| [23 February–5 March 2024](2024-03-05-Ipsos.html) | Ipsos <br> Euronews | 2.8% | 2.3–3.4% | 2.2–3.6% | 2.1–3.8% | 1.9–4.1% |
+| N/A | [Poll Average](average.html) | 2.9% | 2.2–3.7% | 2.0–4.0% | 1.9–4.2% | 1.6–4.7% |
+| [23 February–5 March 2024](2024-03-05-Ipsos.html) | Ipsos <br> Euronews | 2.8% | 2.2–3.7% | 2.0–4.0% | 1.8–4.3% | 1.6–4.7% |
 | [22 January–8 February 2024](2024-02-08-Kantar.html) | Kantar <br> Knack and Le Vif | 4.9% | 4.1–5.8% | 3.9–6.0% | 3.8–6.2% | 3.5–6.7% |
 | [4–11 December 2023](2023-12-11-Ipsos.html) | Ipsos <br> Het Laatste Nieuws, Le Soir, RTL TVi and VTM | 5.0% | 4.3–5.9% | 4.1–6.2% | 3.9–6.4% | 3.6–6.9% |
 | [10 September–9 October 2023](2023-10-09-Kantar.html) | Kantar <br> La Libre Belgique and RTBf | 5.2% | 4.2–6.7% | 3.9–7.1% | 3.6–7.5% | 3.2–8.3% |
@@ -40,11 +40,13 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.5–1.5% | 0% | 100% |  |
-| 1.5–2.5% | 24% | 100% |  |
-| 2.5–3.5% | 70% | 76% | Last Result, Median |
-| 3.5–4.5% | 6% | 6% |  |
-| 4.5–5.5% | 0% | 0% |  |
+| 0.0–0.5% | 0% | 100% |  |
+| 0.5–1.5% | 0.4% | 100% |  |
+| 1.5–2.5% | 28% | 99.6% |  |
+| 2.5–3.5% | 57% | 72% | Last Result, Median |
+| 3.5–4.5% | 14% | 15% |  |
+| 4.5–5.5% | 0.9% | 0.9% |  |
+| 5.5–6.5% | 0% | 0% |  |
 
 
 ## Seats
