@@ -5,8 +5,8 @@ The table below lists the most recent polls (less than 15 days old) registered a
 | Period     | Polling firm/Commissioner(s) | PS | MR | ECOLO | LE | PP | PTB | DÉFI | DLB | DROITE | RWF | WDA | PIRATE | FW | ISLAM |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 26 May 2019 | General Election | 29.3% <br> 3 | 27.1% <br> 3 | 11.7% <br> 1 | 11.4% <br> 1 | 6.0% <br> 0 | 5.5% <br> 0 | 3.4% <br> 0 | 3.0% <br> 0 | 1.6% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
-| N/A | [Poll Average](average.html) | 25–29% <br> 2–3 | 21–25% <br> 2 | 11–15% <br> 1 | 10–13% <br> 1 | N/A <br> N/A | 17–21% <br> 1–2 | 2–4% <br> 0 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
-| [23 February–5 March 2024](2024-03-05-Ipsos.html) | Ipsos <br> Euronews | 25–29% <br> 2–3 | 21–25% <br> 2 | 11–15% <br> 1 | 10–13% <br> 1 | N/A <br> N/A | 17–21% <br> 1–2 | 2–4% <br> 0 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| N/A | [Poll Average](average.html) | 24–30% <br> 2–3 | 20–26% <br> 2 | 11–15% <br> 1 | 9–14% <br> 0–1 | N/A <br> N/A | 16–22% <br> 1–2 | 2–4% <br> 0 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [23 February–5 March 2024](2024-03-05-Ipsos.html) | Ipsos <br> Euronews | 24–30% <br> 2–3 | 20–26% <br> 2 | 11–15% <br> 1 | 9–14% <br> 0–1 | N/A <br> N/A | 17–22% <br> 1–2 | 2–4% <br> 0 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | 26 May 2019 | General Election | 29.3% <br> 3 | 27.1% <br> 3 | 11.7% <br> 1 | 11.4% <br> 1 | 6.0% <br> 0 | 5.5% <br> 0 | 3.4% <br> 0 | 3.0% <br> 0 | 1.6% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
 
 Only polls for which at least the sample size has been published are included in the table above.
