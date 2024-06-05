@@ -10,7 +10,8 @@ Last result: **3.4%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4.8% | 4.1–5.6% | 3.9–5.9% | 3.7–6.1% | 3.4–6.6% |
+| N/A | [Poll Average](average.html) | 4.8% | 4.0–5.6% | 3.8–5.9% | 3.7–6.1% | 3.4–6.5% |
+| [28–31 May 2024](2024-05-31-Cluster17.html) | Cluster17 <br> RTL TVi | 4.7% | 4.0–5.6% | 3.8–5.8% | 3.6–6.0% | 3.3–6.5% |
 | [14–20 May 2024](2024-05-20-Ipsos.html) | Ipsos <br> Het Laatste Nieuws, Le Soir, RTL TVi and VTM | 4.8% | 4.1–5.7% | 3.9–5.9% | 3.7–6.1% | 3.4–6.6% |
 | [8–18 April 2024](2024-04-18-Kantar.html) | Kantar <br> La Libre Belgique and RTBf | 4.9% | 4.1–5.8% | 3.9–6.0% | 3.8–6.2% | 3.5–6.7% |
 | [23 February–5 March 2024](2024-03-05-Ipsos.html) | Ipsos <br> Euronews | 2.8% | 2.2–3.7% | 2.0–4.0% | 1.8–4.3% | 1.6–4.7% |
@@ -43,11 +44,11 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 1.5–2.5% | 0% | 100% |  |
-| 2.5–3.5% | 1.1% | 100% | Last Result |
-| 3.5–4.5% | 32% | 98.9% |  |
-| 4.5–5.5% | 54% | 67% | Median |
-| 5.5–6.5% | 12% | 13% |  |
-| 6.5–7.5% | 0.5% | 0.5% |  |
+| 2.5–3.5% | 1.4% | 100% | Last Result |
+| 3.5–4.5% | 34% | 98.6% |  |
+| 4.5–5.5% | 53% | 64% | Median |
+| 5.5–6.5% | 11% | 12% |  |
+| 6.5–7.5% | 0.4% | 0.4% |  |
 | 7.5–8.5% | 0% | 0% |  |
 
 
@@ -60,6 +61,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [28–31 May 2024](2024-05-31-Cluster17.html) | Cluster17 <br> RTL TVi | 0 | 0 | 0 | 0 | 0 |
 | [14–20 May 2024](2024-05-20-Ipsos.html) | Ipsos <br> Het Laatste Nieuws, Le Soir, RTL TVi and VTM | 0 | 0 | 0 | 0 | 0 |
 | [8–18 April 2024](2024-04-18-Kantar.html) | Kantar <br> La Libre Belgique and RTBf | 0 | 0 | 0 | 0 | 0 |
 | [23 February–5 March 2024](2024-03-05-Ipsos.html) | Ipsos <br> Euronews | 0 | 0 | 0 | 0 | 0 |
