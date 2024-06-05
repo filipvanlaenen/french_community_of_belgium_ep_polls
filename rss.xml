@@ -8,7 +8,37 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/french_community_of_belgium_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Mon, 27 May 2024 17:42:53 +0200</pubDate>
+    <pubDate>Wed, 05 Jun 2024 19:30:54 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Cluster17 for RTL TVi, 28–31 May 2024 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/french_community_of_belgium_ep_polls/2024-05-31-Cluster17.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Parti Socialiste (S&amp;amp;D): 2–3 seats&lt;/li&gt;&lt;li&gt;Ecolo (Greens/EFA): 0–1 seats&lt;/li&gt;&lt;li&gt;Les Engagés (EPP): 1–2 seats&lt;/li&gt;&lt;li&gt;DéFI (*): 0 seats&lt;/li&gt;&lt;li&gt;Parti du Travail de Belgique (GUE/NGL): 1–2 seats&lt;/li&gt;&lt;li&gt;Mouvement Réformateur (RE): 2–3 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/french_community_of_belgium_ep_polls/2024-05-31-Cluster17-seats.png"
+        length="227622"
+        type="image/png"/>
+      <pubDate>Wed, 05 Jun 2024 19:30:54 +0200</pubDate>
+      <dc:date>2024-06-05T19:30:54.469001+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Cluster17 for RTL TVi, 28–31 May 2024 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/french_community_of_belgium_ep_polls/2024-05-31-Cluster17.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/french_community_of_belgium_ep_polls/2024-05-31-Cluster17-coalitions-seats.png"
+        length="162144"
+        type="image/png"/>
+      <pubDate>Wed, 05 Jun 2024 19:30:54 +0200</pubDate>
+      <dc:date>2024-06-05T19:30:54.469001+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Cluster17 for RTL TVi, 28–31 May 2024 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/french_community_of_belgium_ep_polls/2024-05-31-Cluster17.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Parti Socialiste (S&amp;amp;D): 20.4–25.1%&lt;/li&gt;&lt;li&gt;Ecolo (Greens/EFA): 7.5–10.7%&lt;/li&gt;&lt;li&gt;Les Engagés (EPP): 14.3–18.5%&lt;/li&gt;&lt;li&gt;DéFI (*): 3.6–6.0%&lt;/li&gt;&lt;li&gt;Parti du Travail de Belgique (GUE/NGL): 15.2–19.4%&lt;/li&gt;&lt;li&gt;Mouvement Réformateur (RE): 21.3–26.1%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/french_community_of_belgium_ep_polls/2024-05-31-Cluster17.png"
+        length="228326"
+        type="image/png"/>
+      <pubDate>Wed, 05 Jun 2024 19:30:54 +0200</pubDate>
+      <dc:date>2024-06-05T19:30:54.469001+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Ipsos for Het Laatste Nieuws, Le Soir, RTL TVi and VTM, 14–20 May 2024 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/french_community_of_belgium_ep_polls/2024-05-20-Ipsos.html#seats</link>
@@ -729,6 +759,6 @@
       <pubDate>Fri, 27 Sep 2019 16:53:48 +0200</pubDate>
       <dc:date>2019-09-27T16:53:48+02:00</dc:date>
     </item>
-    <dc:date>2024-05-27T17:42:53.357252+02:00</dc:date>
+    <dc:date>2024-06-05T19:30:54.469001+02:00</dc:date>
   </channel>
 </rss>
