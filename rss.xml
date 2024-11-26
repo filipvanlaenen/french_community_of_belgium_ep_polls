@@ -8,7 +8,37 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/french_community_of_belgium_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Mon, 23 Sep 2024 21:57:28 +0200</pubDate>
+    <pubDate>Tue, 26 Nov 2024 08:57:01 +0100</pubDate>
+    <item>
+      <title>Opinion Poll by Ipsos for Het Laatste Nieuws, Le Soir, RTL TVi and VTM, 18–21 November 2024 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/french_community_of_belgium_ep_polls/2024-11-21-Ipsos.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Parti du Travail de Belgique (GUE/NGL): 1 seats&lt;/li&gt;&lt;li&gt;Parti Socialiste (S&amp;amp;D): 2–3 seats&lt;/li&gt;&lt;li&gt;Les Engagés (RE): 1–2 seats&lt;/li&gt;&lt;li&gt;Mouvement Réformateur (RE): 2–3 seats&lt;/li&gt;&lt;li&gt;Ecolo (Greens/EFA): 0–1 seats&lt;/li&gt;&lt;li&gt;DéFI (*): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/french_community_of_belgium_ep_polls/2024-11-21-Ipsos-seats.png"
+        length="222728"
+        type="image/png"/>
+      <pubDate>Tue, 26 Nov 2024 08:57:01 +0100</pubDate>
+      <dc:date>2024-11-26T08:57:01.156618+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Ipsos for Het Laatste Nieuws, Le Soir, RTL TVi and VTM, 18–21 November 2024 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/french_community_of_belgium_ep_polls/2024-11-21-Ipsos.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/french_community_of_belgium_ep_polls/2024-11-21-Ipsos-coalitions-seats.png"
+        length="151207"
+        type="image/png"/>
+      <pubDate>Tue, 26 Nov 2024 08:57:01 +0100</pubDate>
+      <dc:date>2024-11-26T08:57:01.156618+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Ipsos for Het Laatste Nieuws, Le Soir, RTL TVi and VTM, 18–21 November 2024 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/french_community_of_belgium_ep_polls/2024-11-21-Ipsos.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Parti du Travail de Belgique (GUE/NGL): 12.7–16.7%&lt;/li&gt;&lt;li&gt;Parti Socialiste (S&amp;amp;D): 22.2–27.0%&lt;/li&gt;&lt;li&gt;Les Engagés (RE): 16.1–20.5%&lt;/li&gt;&lt;li&gt;Mouvement Réformateur (RE): 24.0–29.0%&lt;/li&gt;&lt;li&gt;Ecolo (Greens/EFA): 7.7–11.0%&lt;/li&gt;&lt;li&gt;DéFI (*): 0.6–1.8%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/french_community_of_belgium_ep_polls/2024-11-21-Ipsos.png"
+        length="228987"
+        type="image/png"/>
+      <pubDate>Tue, 26 Nov 2024 08:57:01 +0100</pubDate>
+      <dc:date>2024-11-26T08:57:01.156618+01:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Ipsos for Het Laatste Nieuws, Le Soir, RTL TVi and VTM, 11–17 September 2024 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/french_community_of_belgium_ep_polls/2024-09-17-Ipsos.html#seats</link>
@@ -39,6 +69,6 @@
       <pubDate>Mon, 23 Sep 2024 21:57:28 +0200</pubDate>
       <dc:date>2024-09-23T21:57:28.537814+02:00</dc:date>
     </item>
-    <dc:date>2024-09-23T21:57:28.537814+02:00</dc:date>
+    <dc:date>2024-11-26T08:57:01.156618+01:00</dc:date>
   </channel>
 </rss>
