@@ -292,8 +292,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 29% | 100% | Last Result |
-| 1 | 71% | 71% | Median |
+| 0 | 31% | 100% | Last Result |
+| 1 | 69% | 69% | Median |
 | 2 | 0% | 0% |  |
 
 ### PIRATE (Greens/EFA)
@@ -326,8 +326,8 @@ Only polls for which at least the sample size has been published are included in
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
-| 2 | 55% | 100% | Median |
-| 3 | 45% | 45% |  |
+| 2 | 52% | 100% | Median |
+| 3 | 48% | 48% |  |
 | 4 | 0% | 0% |  |
 
 ### Les Engagés (RE)
@@ -339,8 +339,8 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 25% | 100% |  |
-| 2 | 75% | 75% | Median |
+| 1 | 26% | 100% |  |
+| 2 | 74% | 74% | Median |
 | 3 | 0% | 0% |  |
 
 ### Chez Nous (PfE)
@@ -414,7 +414,7 @@ Only polls for which at least the sample size has been published are included in
 
 | Coalition | Last Result | Median | Majority? | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:---------:|:-----------:|:------:|:---------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Les Engagés (RE) – Mouvement Réformateur (RE) | 0 | 4 | 23% | 4–5 | 4–5 | 3–5 | 3–5 |
+| Les Engagés (RE) – Mouvement Réformateur (RE) | 0 | 4 | 25% | 4–5 | 4–5 | 3–5 | 3–5 |
 | Parti Socialiste (S&D) | 0 | 2 | 0% | 2 | 2–3 | 2–3 | 2–3 |
 | Parti du Travail de Belgique (GUE/NGL) | 0 | 1 | 0% | 1 | 1 | 1 | 1–2 |
 | Ecolo (Greens/EFA) – PIRATE (Greens/EFA) | 0 | 1 | 0% | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -430,8 +430,8 @@ Only polls for which at least the sample size has been published are included in
 | 1 | 0% | 100% |  |
 | 2 | 0% | 100% |  |
 | 3 | 3% | 100% |  |
-| 4 | 74% | 97% | Median |
-| 5 | 23% | 23% | Majority |
+| 4 | 72% | 97% | Median |
+| 5 | 25% | 25% | Majority |
 | 6 | 0% | 0% |  |
 
 ### Parti Socialiste (S&D)
@@ -463,8 +463,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 29% | 100% | Last Result |
-| 1 | 71% | 71% | Median |
+| 0 | 31% | 100% | Last Result |
+| 1 | 69% | 69% | Median |
 | 2 | 0% | 0% |  |
 
 ### Chez Nous (PfE)
@@ -479,6 +479,6 @@ Only polls for which at least the sample size has been published are included in
 ## Technical Information
 
 + **Number of polls included in this average:** 1
-+ **Lowest number of simulations done in a poll included in this average:** 1,048,576
-+ **Total number of simulations done in the polls included in this average:** 1,048,576
-+ **Error estimate:** 1.30%
++ **Lowest number of simulations done in a poll included in this average:** 2,097,152
++ **Total number of simulations done in the polls included in this average:** 2,097,152
++ **Error estimate:** 1.01%
