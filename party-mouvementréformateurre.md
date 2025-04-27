@@ -12,7 +12,7 @@ Last result: **0.0%** (General Election of 9 June 2024)
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 24.9% | 23.3–26.5% | 22.9–27.0% | 22.5–27.4% | 21.8–28.2% |
 | [4–11 March 2025](2025-03-11-Ipsos.html) | Ipsos <br> Het Laatste Nieuws, Le Soir, RTL TVi and VTM | 24.9% | 23.3–26.5% | 22.9–27.0% | 22.5–27.4% | 21.8–28.2% |
-| [18–21 November 2024](2024-11-21-Ipsos.html) | Ipsos <br> Het Laatste Nieuws, Le Soir, RTL TVi and VTM | 26.6% | 25.0–28.2% | 24.5–28.7% | 24.1–29.1% | 23.4–29.9% |
+| [18–21 November 2024](2024-11-21-Ipsos.html) | Ipsos <br> Het Laatste Nieuws, Le Soir, RTL TVi and VTM | 26.5% | 25.0–28.2% | 24.5–28.7% | 24.1–29.1% | 23.4–29.9% |
 | [11–17 September 2024](2024-09-17-Ipsos.html) | Ipsos <br> Het Laatste Nieuws, Le Soir, RTL TVi and VTM | 26.5% | N/A | N/A | N/A | N/A |
 
 ### Probability Mass Function
