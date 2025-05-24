@@ -150,7 +150,7 @@ Areas included: Brussels, Wallonia
 | 1 | 0% | 100% |  |
 | 2 | 0% | 100% |  |
 | 3 | 0.9% | 100% |  |
-| 4 | 92% | 99.1% | Median |
+| 4 | 91% | 99.1% | Median |
 | 5 | 8% | 8% | Majority |
 | 6 | 0% | 0% |  |
 
@@ -197,6 +197,6 @@ Areas included: Brussels, Wallonia
 ### Calculations
 
 + **Sample size:** 2401
-+ **Simulations done:** 1,048,576
-+ **Error estimate:** 0.69%
++ **Simulations done:** 2,097,152
++ **Error estimate:** 0.64%
 
