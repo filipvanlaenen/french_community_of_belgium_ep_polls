@@ -8,7 +8,37 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/french_community_of_belgium_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sat, 24 May 2025 20:59:52 +0200</pubDate>
+    <pubDate>Sat, 07 Jun 2025 18:41:03 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Ipsos for Het Laatste Nieuws, Le Soir, RTL TVi and VTM, 27 May–3 June 2025 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/french_community_of_belgium_ep_polls/2025-06-03-Ipsos.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Parti du Travail de Belgique (GUE/NGL): 1–2 seats&lt;/li&gt;&lt;li&gt;Parti Socialiste (S&amp;amp;D): 2–3 seats&lt;/li&gt;&lt;li&gt;Les Engagés (RE): 1–2 seats&lt;/li&gt;&lt;li&gt;Chez Nous (PfE): 0 seats&lt;/li&gt;&lt;li&gt;DéFI (*): 0 seats&lt;/li&gt;&lt;li&gt;Mouvement Réformateur (RE): 2–3 seats&lt;/li&gt;&lt;li&gt;Ecolo (Greens/EFA): 0–1 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/french_community_of_belgium_ep_polls/2025-06-03-Ipsos-seats.png"
+        length="237423"
+        type="image/png"/>
+      <pubDate>Sat, 07 Jun 2025 18:41:03 +0200</pubDate>
+      <dc:date>2025-06-07T18:41:03.859063+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Ipsos for Het Laatste Nieuws, Le Soir, RTL TVi and VTM, 27 May–3 June 2025 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/french_community_of_belgium_ep_polls/2025-06-03-Ipsos.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/french_community_of_belgium_ep_polls/2025-06-03-Ipsos-coalitions-seats.png"
+        length="159613"
+        type="image/png"/>
+      <pubDate>Sat, 07 Jun 2025 18:41:03 +0200</pubDate>
+      <dc:date>2025-06-07T18:41:03.859063+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Ipsos for Het Laatste Nieuws, Le Soir, RTL TVi and VTM, 27 May–3 June 2025 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/french_community_of_belgium_ep_polls/2025-06-03-Ipsos.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Parti du Travail de Belgique (GUE/NGL): 15.2–19.4%&lt;/li&gt;&lt;li&gt;Parti Socialiste (S&amp;amp;D): 22.8–27.7%&lt;/li&gt;&lt;li&gt;Les Engagés (RE): 15.5–19.7%&lt;/li&gt;&lt;li&gt;Chez Nous (PfE): 1.7–3.5%&lt;/li&gt;&lt;li&gt;DéFI (*): 1.3–2.9%&lt;/li&gt;&lt;li&gt;Mouvement Réformateur (RE): 21.6–26.3%&lt;/li&gt;&lt;li&gt;Ecolo (Greens/EFA): 7.4–10.5%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/french_community_of_belgium_ep_polls/2025-06-03-Ipsos.png"
+        length="250273"
+        type="image/png"/>
+      <pubDate>Sat, 07 Jun 2025 18:41:03 +0200</pubDate>
+      <dc:date>2025-06-07T18:41:03.859063+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Bpact and Universiteit Antwerpen &amp; ULB for De Standaard, RTBF and VRT, 3–24 March 2025 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/french_community_of_belgium_ep_polls/2025-03-24-BpactandUniversiteitAntwerpenULB.html#seats</link>
@@ -99,6 +129,6 @@
       <pubDate>Sun, 05 Jan 2025 21:45:20 +0100</pubDate>
       <dc:date>2025-01-05T21:45:20.16144+01:00</dc:date>
     </item>
-    <dc:date>2025-05-24T20:59:52.48802+02:00</dc:date>
+    <dc:date>2025-06-07T18:41:03.859063+02:00</dc:date>
   </channel>
 </rss>
