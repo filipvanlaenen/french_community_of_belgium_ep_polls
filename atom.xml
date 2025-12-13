@@ -6,7 +6,15 @@
   </author>
   <id>https://filipvanlaenen.github.io/french_community_of_belgium_ep_polls</id>
   <title>All Registered Polls for the European Parliament</title>
-  <updated>2025-09-27T15:23:57.548261+02:00</updated>
+  <updated>2025-12-13T14:18:39.677369+01:00</updated>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Parti du Travail de Belgique (GUE/NGL): 18.3–22.9%, 2 seats</li><li>Parti Socialiste (S&amp;D): 25.6–30.7%, 2–3 seats</li><li>Les Engagés (RE): 14.3–18.5%, 1–2 seats</li><li>Chez Nous (PfE): 1.8–3.6%, 0 seats</li><li>DéFI (*): 2.2–4.2%, 0 seats</li><li>Mouvement Réformateur (RE): 19.0–23.6%, 2 seats</li><li>Ecolo (Greens/EFA): 6.6–9.8%, 0–1 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/french_community_of_belgium_ep_polls/2025-12-09-Ipsos.html</id>
+    <link href="https://filipvanlaenen.github.io/french_community_of_belgium_ep_polls/2025-12-09-Ipsos.html"/>
+    <title>Opinion Poll by Ipsos for Het Laatste Nieuws, Le Soir, RTL TVi and VTM, 1–9 December 2025</title>
+    <updated>2025-12-13T14:18:39.677369+01:00</updated>
+    <dc:date>2025-12-13T14:18:39.677369+01:00</dc:date>
+  </entry>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Parti du Travail de Belgique (GUE/NGL): 17.1–21.6%, 1–2 seats</li><li>Parti Socialiste (S&amp;D): 23.7–28.6%, 2–3 seats</li><li>Les Engagés (RE): 15.0–19.3%, 1–2 seats</li><li>Chez Nous (PfE): 1.8–3.5%, 0 seats</li><li>DéFI (*): 2.0–3.8%, 0 seats</li><li>Mouvement Réformateur (RE): 20.9–25.6%, 2 seats</li><li>Ecolo (Greens/EFA): 7.2–10.5%, 0–1 seats</li></ul></div></content>
     <id>https://filipvanlaenen.github.io/french_community_of_belgium_ep_polls/2025-09-23-Ipsos.html</id>
@@ -47,5 +55,5 @@
     <updated>2025-01-05T21:45:20.16144+01:00</updated>
     <dc:date>2025-01-05T21:45:20.16144+01:00</dc:date>
   </entry>
-  <dc:date>2025-09-27T15:23:57.548261+02:00</dc:date>
+  <dc:date>2025-12-13T14:18:39.677369+01:00</dc:date>
 </feed>
