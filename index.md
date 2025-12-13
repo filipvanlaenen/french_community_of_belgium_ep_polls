@@ -5,8 +5,8 @@ The table below lists the most recent polls (less than 90 days old) registered a
 | Period     | Polling firm/Commissioner(s) | PTB | ECOLO | PIRATE | PS | MR | LE | CN | PP | DÉFI | DLB | DROITE | RWF | WDA | FW | ISLAM |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 9 June 2024 | General Election | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
-| N/A | [Poll Average](average.html) | 17–22% <br> 1–2 | 7–10% <br> 0–1 | N/A <br> N/A | 24–29% <br> 2–3 | 21–26% <br> 2 | 15–19% <br> 1–2 | 2–4% <br> 0 | N/A <br> N/A | 2–4% <br> 0 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
-| [16–23 September 2025](2025-09-23-Ipsos.html) | Ipsos <br> Het Laatste Nieuws, Le Soir, RTL TVi and VTM | 17–22% <br> 1–2 | 7–10% <br> 0–1 | N/A <br> N/A | 24–29% <br> 2–3 | 21–26% <br> 2 | 15–19% <br> 1–2 | 2–4% <br> 0 | N/A <br> N/A | 2–4% <br> 0 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| N/A | [Poll Average](average.html) | 18–23% <br> 2 | 7–10% <br> 0–1 | N/A <br> N/A | 26–31% <br> 2–3 | 19–24% <br> 2 | 14–18% <br> 1–2 | 2–4% <br> 0 | N/A <br> N/A | 2–4% <br> 0 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [1–9 December 2025](2025-12-09-Ipsos.html) | Ipsos <br> Het Laatste Nieuws, Le Soir, RTL TVi and VTM | 18–23% <br> 2 | 7–10% <br> 0–1 | N/A <br> N/A | 26–31% <br> 2–3 | 19–24% <br> 2 | 14–18% <br> 1–2 | 2–4% <br> 0 | N/A <br> N/A | 2–4% <br> 0 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | 9 June 2024 | General Election | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
 
 Only polls for which at least the sample size has been published are included in the table above.
