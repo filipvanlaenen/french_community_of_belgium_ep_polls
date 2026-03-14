@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2.6% | 2.0–3.2% | 1.9–3.4% | 1.8–3.5% | 1.5–3.9% |
+| N/A | [Poll Average](average.html) | 2.5% | 2.0–3.2% | 1.9–3.4% | 1.7–3.5% | 1.5–3.9% |
+| [2–9 March 2026](2026-03-09-Ipsos.html) | Ipsos <br> Het Laatste Nieuws, Le Soir, RTL TVi and VTM | 2.5% | 2.0–3.2% | 1.9–3.4% | 1.7–3.5% | 1.5–3.9% |
 | [1–9 December 2025](2025-12-09-Ipsos.html) | Ipsos <br> Het Laatste Nieuws, Le Soir, RTL TVi and VTM | 2.5% | 2.0–3.2% | 1.9–3.4% | 1.8–3.6% | 1.5–3.9% |
 | [16–23 September 2025](2025-09-23-Ipsos.html) | Ipsos <br> Het Laatste Nieuws, Le Soir, RTL TVi and VTM | 2.5% | 2.0–3.2% | 1.9–3.4% | 1.8–3.5% | 1.5–3.9% |
 | [27 May–3 June 2025](2025-06-03-Ipsos.html) | Ipsos <br> Het Laatste Nieuws, Le Soir, RTL TVi and VTM | 2.5% | 2.0–3.1% | 1.8–3.3% | 1.7–3.5% | 1.5–3.8% |
@@ -26,9 +27,9 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
-| 0.5–1.5% | 0.5% | 100% |  |
-| 1.5–2.5% | 49% | 99.5% |  |
-| 2.5–3.5% | 48% | 50% | Median |
+| 0.5–1.5% | 0.6% | 100% |  |
+| 1.5–2.5% | 50% | 99.4% |  |
+| 2.5–3.5% | 47% | 49% | Median |
 | 3.5–4.5% | 2% | 2% |  |
 | 4.5–5.5% | 0% | 0% |  |
 
@@ -42,6 +43,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [2–9 March 2026](2026-03-09-Ipsos.html) | Ipsos <br> Het Laatste Nieuws, Le Soir, RTL TVi and VTM | 0 | 0 | 0 | 0 | 0 |
 | [1–9 December 2025](2025-12-09-Ipsos.html) | Ipsos <br> Het Laatste Nieuws, Le Soir, RTL TVi and VTM | 0 | 0 | 0 | 0 | 0 |
 | [16–23 September 2025](2025-09-23-Ipsos.html) | Ipsos <br> Het Laatste Nieuws, Le Soir, RTL TVi and VTM | 0 | 0 | 0 | 0 | 0 |
 | [27 May–3 June 2025](2025-06-03-Ipsos.html) | Ipsos <br> Het Laatste Nieuws, Le Soir, RTL TVi and VTM | 0 | 0 | 0 | 0 | 0 |
