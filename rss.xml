@@ -8,7 +8,37 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/french_community_of_belgium_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Wed, 21 Jan 2026 20:47:08 +0100</pubDate>
+    <pubDate>Sat, 14 Mar 2026 12:55:09 +0100</pubDate>
+    <item>
+      <title>Opinion Poll by Ipsos for Het Laatste Nieuws, Le Soir, RTL TVi and VTM, 2–9 March 2026 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/french_community_of_belgium_ep_polls/2026-03-09-Ipsos.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Parti du Travail de Belgique (GUE/NGL): 1–2 seats&lt;/li&gt;&lt;li&gt;Parti Socialiste (S&amp;amp;D): 2–3 seats&lt;/li&gt;&lt;li&gt;Les Engagés (RE): 1–2 seats&lt;/li&gt;&lt;li&gt;Chez Nous (PfE): 0 seats&lt;/li&gt;&lt;li&gt;DéFI (*): 0 seats&lt;/li&gt;&lt;li&gt;Mouvement Réformateur (RE): 2 seats&lt;/li&gt;&lt;li&gt;Ecolo (Greens/EFA): 0–1 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/french_community_of_belgium_ep_polls/2026-03-09-Ipsos-seats.png"
+        length="231539"
+        type="image/png"/>
+      <pubDate>Sat, 14 Mar 2026 12:55:09 +0100</pubDate>
+      <dc:date>2026-03-14T12:55:09.251427+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Ipsos for Het Laatste Nieuws, Le Soir, RTL TVi and VTM, 2–9 March 2026 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/french_community_of_belgium_ep_polls/2026-03-09-Ipsos.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/french_community_of_belgium_ep_polls/2026-03-09-Ipsos-coalitions-seats.png"
+        length="162635"
+        type="image/png"/>
+      <pubDate>Sat, 14 Mar 2026 12:55:09 +0100</pubDate>
+      <dc:date>2026-03-14T12:55:09.251427+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Ipsos for Het Laatste Nieuws, Le Soir, RTL TVi and VTM, 2–9 March 2026 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/french_community_of_belgium_ep_polls/2026-03-09-Ipsos.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Parti du Travail de Belgique (GUE/NGL): 16.9–21.3%&lt;/li&gt;&lt;li&gt;Parti Socialiste (S&amp;amp;D): 24.3–29.3%&lt;/li&gt;&lt;li&gt;Les Engagés (RE): 16.4–20.8%&lt;/li&gt;&lt;li&gt;Chez Nous (PfE): 1.7–3.5%&lt;/li&gt;&lt;li&gt;DéFI (*): 2.0–3.9%&lt;/li&gt;&lt;li&gt;Mouvement Réformateur (RE): 18.4–23.0%&lt;/li&gt;&lt;li&gt;Ecolo (Greens/EFA): 6.8–9.9%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/french_community_of_belgium_ep_polls/2026-03-09-Ipsos.png"
+        length="246887"
+        type="image/png"/>
+      <pubDate>Sat, 14 Mar 2026 12:55:09 +0100</pubDate>
+      <dc:date>2026-03-14T12:55:09.251427+01:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Ipsos for Het Laatste Nieuws, Le Soir, RTL TVi and VTM, 1–9 December 2025 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/french_community_of_belgium_ep_polls/2025-12-09-Ipsos.html#seats</link>
@@ -39,6 +69,6 @@
       <pubDate>Wed, 21 Jan 2026 20:47:08 +0100</pubDate>
       <dc:date>2026-01-21T20:47:08.870787+01:00</dc:date>
     </item>
-    <dc:date>2026-01-21T20:47:08.870787+01:00</dc:date>
+    <dc:date>2026-03-14T12:55:09.251427+01:00</dc:date>
   </channel>
 </rss>
