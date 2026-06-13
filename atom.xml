@@ -6,7 +6,15 @@
   </author>
   <id>https://filipvanlaenen.github.io/french_community_of_belgium_ep_polls</id>
   <title>All Registered Polls for the European Parliament</title>
-  <updated>2026-06-05T20:25:47.492721+02:00</updated>
+  <updated>2026-06-13T17:29:38.493388+02:00</updated>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Parti du Travail de Belgique (GUE/NGL): 16.8–21.2%, 1–2 seats</li><li>Parti Socialiste (S&amp;D): 25.3–30.4%, 2–3 seats</li><li>Les Engagés (RE): 16.5–20.9%, 1–2 seats</li><li>Chez Nous (PfE): 1.8–3.6%, 0 seats</li><li>DéFI (*): 2.2–4.2%, 0 seats</li><li>Mouvement Réformateur (RE): 17.4–21.9%, 1–2 seats</li><li>Ecolo (Greens/EFA): 7.4–10.6%, 0–1 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/french_community_of_belgium_ep_polls/2026-06-09-Ipsos.html</id>
+    <link href="https://filipvanlaenen.github.io/french_community_of_belgium_ep_polls/2026-06-09-Ipsos.html"/>
+    <title>Opinion Poll by Ipsos for Het Laatste Nieuws, Le Soir, RTL TVi and VTM, 1–9 June 2026</title>
+    <updated>2026-06-13T17:29:38.493388+02:00</updated>
+    <dc:date>2026-06-13T17:29:38.493388+02:00</dc:date>
+  </entry>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Parti du Travail de Belgique (GUE/NGL): 19.2–22.5%, 2 seats</li><li>Parti Socialiste (S&amp;D): 22.5–26.0%, 2–3 seats</li><li>Les Engagés (RE): 16.3–19.5%, 1–2 seats</li><li>Chez Nous (PfE): 2.2–3.6%, 0 seats</li><li>DéFI (*): 2.7–4.2%, 0 seats</li><li>Mouvement Réformateur (RE): 18.5–21.8%, 2 seats</li><li>Ecolo (Greens/EFA): 6.2–8.4%, 0 seats</li></ul></div></content>
     <id>https://filipvanlaenen.github.io/french_community_of_belgium_ep_polls/2026-04-05-BpactandUniversiteitAntwerpenULB.html</id>
@@ -31,5 +39,5 @@
     <updated>2026-01-21T20:47:08.870787+01:00</updated>
     <dc:date>2026-01-21T20:47:08.870787+01:00</dc:date>
   </entry>
-  <dc:date>2026-06-05T20:25:47.492721+02:00</dc:date>
+  <dc:date>2026-06-13T17:29:38.493388+02:00</dc:date>
 </feed>
